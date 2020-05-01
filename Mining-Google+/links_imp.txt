@@ -1,0 +1,133 @@
+ 1)cls and self usage in Python function declaration -
+http://stackoverflow.com/questions/7554738/python-self-no-self-and-cls
+
+2)nltk probabilty fdist implementation
+	http://www.nltk.org/_modules/nltk/probability.html
+	
+class FreqDist(Counter):
+    """
+    A frequency distribution for the outcomes of an experiment.  A
+    frequency distribution records the number of times each outcome of
+    an experiment has occurred.  For example, a frequency distribution
+    could be used to record the frequency of each word type in a
+    document.  Formally, a frequency distribution can be defined as a
+    function mapping from each sample to the number of times that
+    sample occurred as an outcome.
+
+    Frequency distributions are generally constructed by running a
+    number of experiments, and incrementing the count for a sample
+    every time it is an outcome of an experiment.  For example, the
+    following code will produce a frequency distribution that encodes
+    how often each word occurs in a text:
+
+        >>> from nltk.tokenize import word_tokenize
+        >>> from nltk.probability import FreqDist
+        >>> sent = 'This is an example sentence'
+        >>> fdist = FreqDist()
+        >>> for word in word_tokenize(sent):
+        ...    fdist[word.lower()] += 1
+
+    An equivalent way to do this is with the initializer:
+
+        >>> fdist = FreqDist(word.lower() for word in word_tokenize(sent))
+
+    """
+
+
+
+3)http://www.nltk.org/_modules/nltk/util.html
+	 """
+    Return the ngrams generated from a sequence of items, as an iterator.
+    For example:
+
+        >>> from nltk.util import ngrams
+        >>> list(ngrams([1,2,3,4,5], 3))
+        [(1, 2, 3), (2, 3, 4), (3, 4, 5)]
+
+    Use ngrams for a list version of this function.  Set pad_left
+    or pad_right to true in order to get additional ngrams:
+
+        >>> list(ngrams([1,2,3,4,5], 2, pad_right=True))
+        [(1, 2), (2, 3), (3, 4), (4, 5), (5, None)]
+
+    :param sequence: the source data to be converted into ngrams
+    :type sequence: sequence or iter
+    :param n: the degree of the ngrams
+    :type n: int
+    :param pad_left: whether the ngrams should be left-padded
+    :type pad_left: bool
+    :param pad_right: whether the ngrams should be right-padded
+    :type pad_right: bool
+    :param pad_symbol: the symbol to use for padding (default is None)
+    :type pad_symbol: any
+    :rtype: iter(tuple)
+    """	
+    
+    
+import itertools
+a = itertools.chain([1, 2], [3, 4])
+print list(a) # => [1, 2, 3, 4]
+print list(a) # => []   
+
+
+PMI -
+http://nlpwp.org/book/chap-ngrams.xhtml
+
+NOTE -
+APPLICATIONS :
+
+1)Corpus linguists study such collocations to answer interesting questions about the combinatory properties of words. An example of such a question concerns the combination of verbs and prepositions: does the verb to govern occur more often in combination with the preposition by than with the preposition with?.
+
+2)Using Bigrams in Text Categorization:
+http://cs.brynmawr.edu/Courses/cs380/fall2006/ir-408.pdf
+
+5 Discussion and conclusion :
+
+By using bigrams, researchers obtain a certain improvement in text categorization results only on rarely
+used datasets for which the baseline is very low and usually obtained by a weak classification method.
+On well-known benchmark corpora, such as Reuters-21578 and 20 Newsgroups, statistically significant
+improvement has never been reported by research groups that employed bigrams in their document representations.
+This can probably be explained by two considerations: (a) the results achieved on these corpora
+are so high that they probably cannot be improved by any technique, because all the incorrectly classified
+items are basically mislabeled; and (b) the corpora are “simple” enough so only a few extracted keywords
+can do the entire job of distinguishing between categories. Bekkerman et al. (2003) show that the Reuters
+dataset is indeed an example of the “simple” datasets: when as few as 10 best discriminating words are
+extracted, the categorization result is above 80% break-even point (BEP) on the 10 largest categories, and
+when as few as 100 best discriminating words are extracted the BEP curve is already very close to its maximum.
+Obviously, fancy feature induction techniques would not cause an improvement in categorization
+results on the datasets like Reuters. Indeed, an extremely sophisticated feature induction method proposed
+by Raskutti et al. (2001) demonstrated an improvement of less than 1% over the baseline.
+
+The 20 Newsgroups however does not appear to belong to the list of “simple” datasets: Bekkerman et al.
+(2003) show that every single word of 20NG matters to the classification, and the highest result is achieved
+while preserving all the words (only stopwords are removed).
+
+So why does such a good method of incorporating bigrams not help to increase performance even
+on potentially tractable datasets as 20NG? Our main hypothesis is that most of the bigrams are no more
+informative than just random combinations of unigrams, but their addition increases the variance. Highly
+discriminative bigrams do exist, but their ratio to “junk” bigrams is low. These “good” bigrams are indeed
+able to improve the classification results, but their contribution is weak in comparison to what hundreds of
+thousands of unigrams can contribute.
+
+Our hypothesis is supported by other researchers. Jasper (2003) writes at the DDLBeta Newsgroup:
+Bigrams that may rank higher than their components often do not occur with enough frequency to make
+much of a difference. While measures like Mutual Information do take into account frequency, there is often
+an implicit tradeoff between frequency and the discriminatory power (e.g., as measured by something like
+odds ratio). For example, terms like “bill gates” in full do not occur nearly as often as simply “gates” as
+in “mr gates” or simply “gates”. This is even more true in informal text where there are significant typos
+and misspellings and it is rare to see the same significant bigram used consistently. Koster and Seutter
+(2003) write: Even the most careful term selection cannot overcome the differences in Document Frequency
+between phrases and words.
+We can conclude that for an unrestricted text categorization task one would probably not expect dramatic
+effects of using bigrams. However, in domains with severely limited lexicons and high chances of
+constructing stable phrases the bigrams can be useful. An interesting problem is therefore a categorization
+application to texts written in programming languages. Applying bigrams in this setup would lead to a
+significant success.
+
+3)Product-Feature Scoring from Reviews  :
+
+http://delivery.acm.org/10.1145/1260000/1250938/p182-scaffidi.pdf?ip=14.139.249.195&id=1250938&acc=ACTIVE%20SERVICE&key=045416EF4DDA69D9%2E50904D3688C79ABD%2E4D4702B0C3E38B35%E4D4702B0C3E38B35&CFID=727659447&CFTOKEN=80755324&__acm__=1446732510_fd5da423a0cc9c314f4e94562a448109
+
+
+
+

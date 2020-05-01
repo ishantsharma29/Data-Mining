@@ -1,0 +1,84 @@
+#include<stdio.h>
+#include<math.h>
+int find(int,int);
+int hash[1001],pos[10],binary[10];
+int main()
+{
+	int t,n,i,j,a[1000],max,k,m,s,sum,flag;
+	scanf("%d",&t);
+	while(t--)
+	{
+		scanf("%d%d",&n,&k);
+		for(i=0;i<=n;i++)
+			hash[i]=0;
+		for(i=0;i<n;i++)
+		{
+			scanf("%d",&a[i]);
+			hash[a[i]]=1;
+			if(a[i]>max)
+				max=a[i];		
+		}
+		flag=0;
+		if(k>max)
+		{
+			max=k;
+			flag=1;
+		}
+printf("\nmax = %d\n",max);
+		m=max;
+		j=0;
+		while(max!=1)
+		{
+			binary[j]=max%2;
+			max/=2;
+			j++;
+		}
+		k=0;
+		binary[j]=max;
+		sum=0;
+		for(i=0;i<=j;i++)
+		{
+printf("%d ",binary[i]);
+			if(binary[i]==0)
+			{
+				pos[k]=i;
+				sum+=pow(2,i);
+				k++;
+			}
+		}
+printf("\npos\n");
+for(i=0;i<k;i++)
+printf("%d ",pos[i]);
+printf("\nini sum %d \n",sum);
+		s=find(sum,k-1);
+printf("\nret sum %d \n",s);
+		sum=0;
+		for(i=0;i<=j;i++)
+		{
+printf("%d ",binary[i]);
+			if(binary[i]==1)
+				sum+=pow(2,i);
+		}
+printf("\nsum %d \n",sum);
+		if(flag==1)
+		printf("%d\n",sum^s);
+		else
+		printf("%d\n",sum^s^k);
+	}
+	return 0;
+}
+int find(int sum,int n)
+{
+printf(" n= %d\n",n);
+	int l;
+	if(hash[sum]==1)
+		return sum;
+	else
+	{
+		l=(int)pow(2,pos[n]);
+printf("l= %d\n",l);
+		if(hash[l]==1)
+			binary[pos[n]]=1;
+		return find((sum-(pow(2,pos[n]))),n-1);
+	}
+}

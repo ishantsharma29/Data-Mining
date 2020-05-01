@@ -1,0 +1,460 @@
+{
+ "items": [
+  {
+   "kind": "plus#activity", 
+   "provider": {
+    "title": ""
+   }, 
+   "title": "", 
+   "url": "https://plus.google.com/114166456257006785876/posts/bbKZLkhDeuQ", 
+   "object": {
+    "resharers": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12dxpkbcvnbxvtyi04cif3w1rfzjlcivgo/people/resharers"
+    }, 
+    "attachments": [
+     {
+      "displayName": "India vs Pakistan - Who really wins? - An eye opener", 
+      "url": "https://www.youtube.com/watch?v=-Ld9wd5zagI&feature=autoshare", 
+      "image": {
+       "url": "https://lh6.googleusercontent.com/proxy/1WkeJkrJtq6f3DvpFPlfZaxjqLhLGLcEHOViKJQh8yTfOSuHDRiK9pwVcjYxR_hoOSpzy-5kB7RM9dAX3jAH=w506-h379-n", 
+       "width": 506, 
+       "type": "image/jpeg", 
+       "height": 379
+      }, 
+      "content": "Keep calm and spread love ! :)\nNot hatred.", 
+      "embed": {
+       "url": "https://www.youtube.com/v/-Ld9wd5zagI?version=3&autohide=1&autoplay=1&feature=autoshare-u", 
+       "type": "application/x-shockwave-flash"
+      }, 
+      "objectType": "video"
+     }
+    ], 
+    "url": "https://plus.google.com/114166456257006785876/posts/bbKZLkhDeuQ", 
+    "content": "", 
+    "plusoners": {
+     "totalItems": 1, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12dxpkbcvnbxvtyi04cif3w1rfzjlcivgo/people/plusoners"
+    }, 
+    "replies": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12dxpkbcvnbxvtyi04cif3w1rfzjlcivgo/comments"
+    }, 
+    "objectType": "note"
+   }, 
+   "updated": "2015-02-23T16:06:20.299Z", 
+   "actor": {
+    "url": "https://plus.google.com/114166456257006785876", 
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-2u9ATKwLQrU/AAAAAAAAAAI/AAAAAAAAAho/SUJ7NxK0-Vo/photo.jpg?sz=50"
+    }, 
+    "displayName": "Raunak Kohli", 
+    "id": "114166456257006785876"
+   }, 
+   "access": {
+    "items": [
+     {
+      "type": "public"
+     }
+    ], 
+    "kind": "plus#acl", 
+    "description": "Public"
+   }, 
+   "verb": "post", 
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/skBfUWL0ySrdiRLUzIPBRUkK9N8\"", 
+   "published": "2015-02-23T16:06:20.299Z", 
+   "id": "z12dxpkbcvnbxvtyi04cif3w1rfzjlcivgo"
+  }, 
+  {
+   "kind": "plus#activity", 
+   "provider": {
+    "title": ""
+   }, 
+   "title": "", 
+   "url": "https://plus.google.com/114166456257006785876/posts/B9Ahss9fmoU", 
+   "object": {
+    "resharers": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ntr3hyrjlv1o1w23msz0huzvwe3qv5/people/resharers"
+    }, 
+    "attachments": [
+     {
+      "displayName": "AIB Knockout   The Roast Of Arjun and Ranveer Part 2   YouTube", 
+      "url": "https://www.youtube.com/watch?v=OSeYc2mwIVc&feature=autoshare", 
+      "image": {
+       "url": "https://lh6.googleusercontent.com/proxy/T_fP3RgYd5phL8RIjBpVXbNN1zuvc-C2NOBxfGjHt3rSul9mzitVlzTdrmC1r0ALkcE3iCx-5QCz3kjwFTNT=w506-h379-n", 
+       "width": 506, 
+       "type": "image/jpeg", 
+       "height": 379
+      }, 
+      "content": "", 
+      "embed": {
+       "url": "https://www.youtube.com/v/OSeYc2mwIVc?version=3&autohide=1&autoplay=1&feature=autoshare-u", 
+       "type": "application/x-shockwave-flash"
+      }, 
+      "objectType": "video"
+     }
+    ], 
+    "url": "https://plus.google.com/114166456257006785876/posts/B9Ahss9fmoU", 
+    "content": "", 
+    "plusoners": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ntr3hyrjlv1o1w23msz0huzvwe3qv5/people/plusoners"
+    }, 
+    "replies": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ntr3hyrjlv1o1w23msz0huzvwe3qv5/comments"
+    }, 
+    "objectType": "note"
+   }, 
+   "updated": "2015-02-05T16:30:11.387Z", 
+   "actor": {
+    "url": "https://plus.google.com/114166456257006785876", 
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-2u9ATKwLQrU/AAAAAAAAAAI/AAAAAAAAAho/SUJ7NxK0-Vo/photo.jpg?sz=50"
+    }, 
+    "displayName": "Raunak Kohli", 
+    "id": "114166456257006785876"
+   }, 
+   "access": {
+    "items": [
+     {
+      "type": "public"
+     }
+    ], 
+    "kind": "plus#acl", 
+    "description": "Public"
+   }, 
+   "verb": "post", 
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/CvCpDu5Ft7epYrRNZcOAZVo0zMk\"", 
+   "published": "2015-02-05T16:30:11.387Z", 
+   "id": "z13ntr3hyrjlv1o1w23msz0huzvwe3qv5"
+  }, 
+  {
+   "kind": "plus#activity", 
+   "provider": {
+    "title": ""
+   }, 
+   "title": "", 
+   "url": "https://plus.google.com/114166456257006785876/posts/ef5R565sZLf", 
+   "object": {
+    "resharers": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12mhtdaftjpsn4j104cif3w1rfzjlcivgo/people/resharers"
+    }, 
+    "attachments": [
+     {
+      "displayName": "AIB Knockout   The Roast of Arjun and Ranveer Part 1", 
+      "url": "https://www.youtube.com/watch?v=SvQyg91qYAQ&feature=autoshare", 
+      "image": {
+       "url": "https://lh5.googleusercontent.com/proxy/xWNX1a74-sdSnHXrTOAYT8NTPv_aZn-8kFJg9AhR3HRD-elqvsaexqTDqLnk-0UgZCIkBkS2sS--0P8OSp5Z=w506-h379-n", 
+       "width": 506, 
+       "type": "image/jpeg", 
+       "height": 379
+      }, 
+      "content": "", 
+      "embed": {
+       "url": "https://www.youtube.com/v/SvQyg91qYAQ?version=3&autohide=1&autoplay=1&feature=autoshare-u", 
+       "type": "application/x-shockwave-flash"
+      }, 
+      "objectType": "video"
+     }
+    ], 
+    "url": "https://plus.google.com/114166456257006785876/posts/ef5R565sZLf", 
+    "content": "", 
+    "plusoners": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12mhtdaftjpsn4j104cif3w1rfzjlcivgo/people/plusoners"
+    }, 
+    "replies": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12mhtdaftjpsn4j104cif3w1rfzjlcivgo/comments"
+    }, 
+    "objectType": "note"
+   }, 
+   "updated": "2015-02-05T16:30:09.729Z", 
+   "actor": {
+    "url": "https://plus.google.com/114166456257006785876", 
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-2u9ATKwLQrU/AAAAAAAAAAI/AAAAAAAAAho/SUJ7NxK0-Vo/photo.jpg?sz=50"
+    }, 
+    "displayName": "Raunak Kohli", 
+    "id": "114166456257006785876"
+   }, 
+   "access": {
+    "items": [
+     {
+      "type": "public"
+     }
+    ], 
+    "kind": "plus#acl", 
+    "description": "Public"
+   }, 
+   "verb": "post", 
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/K9r9Li1FrNzuOrQG4APJ8oTuk7g\"", 
+   "published": "2015-02-05T16:30:09.729Z", 
+   "id": "z12mhtdaftjpsn4j104cif3w1rfzjlcivgo"
+  }, 
+  {
+   "kind": "plus#activity", 
+   "provider": {
+    "title": ""
+   }, 
+   "title": "", 
+   "url": "https://plus.google.com/114166456257006785876/posts/2oh9w4SCzn2", 
+   "object": {
+    "resharers": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13jvjmh4q22eptce23msz0huzvwe3qv5/people/resharers"
+    }, 
+    "attachments": [
+     {
+      "displayName": "AIB Knockout   The Roast of Arjun and Ranveer Part 3", 
+      "url": "https://www.youtube.com/watch?v=peHcTqAsTLs&feature=autoshare", 
+      "image": {
+       "url": "https://lh5.googleusercontent.com/proxy/Fp-SGoa4VJu6EBluuegCylaOJJDYcFDCtgeF_9sXTXnbwex2H1BuJud_kkfeZVm4SYnswi2AybePgHAyx4QU=w506-h379-n", 
+       "width": 506, 
+       "type": "image/jpeg", 
+       "height": 379
+      }, 
+      "content": "Only for adults.\nA downloaded version of the AIB Roast which spread like fire and criticized to hell ! :(", 
+      "embed": {
+       "url": "https://www.youtube.com/v/peHcTqAsTLs?version=3&autohide=1&autoplay=1&feature=autoshare-u", 
+       "type": "application/x-shockwave-flash"
+      }, 
+      "objectType": "video"
+     }
+    ], 
+    "url": "https://plus.google.com/114166456257006785876/posts/2oh9w4SCzn2", 
+    "content": "", 
+    "plusoners": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13jvjmh4q22eptce23msz0huzvwe3qv5/people/plusoners"
+    }, 
+    "replies": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13jvjmh4q22eptce23msz0huzvwe3qv5/comments"
+    }, 
+    "objectType": "note"
+   }, 
+   "updated": "2015-02-05T16:24:40.184Z", 
+   "actor": {
+    "url": "https://plus.google.com/114166456257006785876", 
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-2u9ATKwLQrU/AAAAAAAAAAI/AAAAAAAAAho/SUJ7NxK0-Vo/photo.jpg?sz=50"
+    }, 
+    "displayName": "Raunak Kohli", 
+    "id": "114166456257006785876"
+   }, 
+   "access": {
+    "items": [
+     {
+      "type": "public"
+     }
+    ], 
+    "kind": "plus#acl", 
+    "description": "Public"
+   }, 
+   "verb": "post", 
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/QQ7k7T3NRctIyHDzlAhm_Ul9S5s\"", 
+   "published": "2015-02-05T16:24:40.184Z", 
+   "id": "z13jvjmh4q22eptce23msz0huzvwe3qv5"
+  }, 
+  {
+   "kind": "plus#activity", 
+   "provider": {
+    "title": "Youtube"
+   }, 
+   "title": "Nice changes ! (y) Liked it ;)", 
+   "url": "https://plus.google.com/114166456257006785876/posts/if7vM7Fk9Tz", 
+   "object": {
+    "resharers": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12evlyrnsruxl1rt04cif3w1rfzjlcivgo/people/resharers"
+    }, 
+    "attachments": [
+     {
+      "displayName": "Haye Mera Dil Yo Yo Honey Singh Ft. Alfaaz (Descant Khurafaat Remake)", 
+      "url": "http://www.youtube.com/watch?v=nFJzg7_y7bo", 
+      "image": {
+       "url": "https://lh5.googleusercontent.com/proxy/a7ohe5kGsHl9S2hLKhal6LGNGo2GsxdToOnYBVCDffMs7uqL55qFqZk9Tbj-MzEAiKIkgGdNpplO8SW41bJDR3sHN7U=w506-h284-n", 
+       "width": 506, 
+       "type": "image/jpeg", 
+       "height": 284
+      }, 
+      "content": "A remake of very popular song Haye Mera Dil by our very own, the most popular punjabi artist known worldwide for his rap and music yes it's Yo!Yo! Honey Sing...", 
+      "embed": {
+       "url": "http://www.youtube.com/v/nFJzg7_y7bo?version=3&autohide=1", 
+       "type": "application/x-shockwave-flash"
+      }, 
+      "objectType": "video"
+     }
+    ], 
+    "url": "https://plus.google.com/114166456257006785876/posts/if7vM7Fk9Tz", 
+    "content": "Nice changes ! (y) Liked it ;)\ufeff", 
+    "plusoners": {
+     "totalItems": 1, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12evlyrnsruxl1rt04cif3w1rfzjlcivgo/people/plusoners"
+    }, 
+    "replies": {
+     "totalItems": 1, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12evlyrnsruxl1rt04cif3w1rfzjlcivgo/comments"
+    }, 
+    "objectType": "note"
+   }, 
+   "updated": "2013-12-28T18:36:10.781Z", 
+   "actor": {
+    "url": "https://plus.google.com/114166456257006785876", 
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-2u9ATKwLQrU/AAAAAAAAAAI/AAAAAAAAAho/SUJ7NxK0-Vo/photo.jpg?sz=50"
+    }, 
+    "displayName": "Raunak Kohli", 
+    "id": "114166456257006785876"
+   }, 
+   "access": {
+    "items": [
+     {
+      "type": "public"
+     }
+    ], 
+    "kind": "plus#acl", 
+    "description": "Public"
+   }, 
+   "verb": "post", 
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/K7WBOajb0EV6EXlFP7ved8f8KNY\"", 
+   "published": "2013-12-28T18:36:10.781Z", 
+   "id": "z12evlyrnsruxl1rt04cif3w1rfzjlcivgo"
+  }, 
+  {
+   "kind": "plus#activity", 
+   "provider": {
+    "title": ""
+   }, 
+   "title": "", 
+   "url": "https://plus.google.com/114166456257006785876/posts/jNrrnwE5fL5", 
+   "object": {
+    "resharers": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12he3pacv2ivhfjx04cif3w1rfzjlcivgo/people/resharers"
+    }, 
+    "attachments": [
+     {
+      "displayName": "A short film or photo documentary on RAGGING :)", 
+      "url": "http://www.youtube.com/watch?v=ECzexuR5ToI&feature=autoshare", 
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/Ur9r6utq4M2H876A7N-j8bAUSdVeUwuW5B1u-NwNMTeqkg3rpyoj2qAOS1KNFq2fcsC1Op6vuS8rC4YgTQ3M1Q=w506-h379-n", 
+       "width": 506, 
+       "type": "image/jpeg", 
+       "height": 379
+      }, 
+      "content": "Made by me..\nn its just to show the ill effects of ragging..!", 
+      "embed": {
+       "url": "http://www.youtube.com/v/ECzexuR5ToI?version=3&autohide=1&autoplay=1&feature=autoshare", 
+       "type": "application/x-shockwave-flash"
+      }, 
+      "objectType": "video"
+     }
+    ], 
+    "url": "https://plus.google.com/114166456257006785876/posts/jNrrnwE5fL5", 
+    "content": "", 
+    "plusoners": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12he3pacv2ivhfjx04cif3w1rfzjlcivgo/people/plusoners"
+    }, 
+    "replies": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12he3pacv2ivhfjx04cif3w1rfzjlcivgo/comments"
+    }, 
+    "objectType": "note"
+   }, 
+   "updated": "2013-03-15T21:03:43.565Z", 
+   "actor": {
+    "url": "https://plus.google.com/114166456257006785876", 
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-2u9ATKwLQrU/AAAAAAAAAAI/AAAAAAAAAho/SUJ7NxK0-Vo/photo.jpg?sz=50"
+    }, 
+    "displayName": "Raunak Kohli", 
+    "id": "114166456257006785876"
+   }, 
+   "access": {
+    "items": [
+     {
+      "type": "public"
+     }
+    ], 
+    "kind": "plus#acl", 
+    "description": "Public"
+   }, 
+   "verb": "post", 
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/i6S2IqH1ZBfOCwtUoNmhCgOK2OQ\"", 
+   "published": "2013-03-15T21:03:43.565Z", 
+   "id": "z12he3pacv2ivhfjx04cif3w1rfzjlcivgo"
+  }, 
+  {
+   "placeName": "NIT Computer Centre", 
+   "kind": "plus#activity", 
+   "provider": {
+    "title": "Google Check-ins"
+   }, 
+   "title": "", 
+   "url": "https://plus.google.com/114166456257006785876/posts/6Xwv6gm3kGM", 
+   "geocode": "25.49160385131836 81.86319732666016", 
+   "object": {
+    "resharers": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12vf3jr0sqpx12l123msz0huzvwe3qv5/people/resharers"
+    }, 
+    "url": "https://plus.google.com/114166456257006785876/posts/6Xwv6gm3kGM", 
+    "content": "", 
+    "plusoners": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12vf3jr0sqpx12l123msz0huzvwe3qv5/people/plusoners"
+    }, 
+    "replies": {
+     "totalItems": 0, 
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12vf3jr0sqpx12l123msz0huzvwe3qv5/comments"
+    }, 
+    "objectType": "note"
+   }, 
+   "updated": "2013-02-02T22:41:44.751Z", 
+   "actor": {
+    "url": "https://plus.google.com/114166456257006785876", 
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-2u9ATKwLQrU/AAAAAAAAAAI/AAAAAAAAAho/SUJ7NxK0-Vo/photo.jpg?sz=50"
+    }, 
+    "displayName": "Raunak Kohli", 
+    "id": "114166456257006785876"
+   }, 
+   "access": {
+    "items": [
+     {
+      "type": "public"
+     }
+    ], 
+    "kind": "plus#acl", 
+    "description": "Public"
+   }, 
+   "verb": "checkin", 
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/7b7zQH3ug7VZi5VLZ2J92Bq3_BE\"", 
+   "location": {
+    "position": {
+     "latitude": 25.49160385131836, 
+     "longitude": 81.86319732666016
+    }, 
+    "kind": "plus#place", 
+    "displayName": "NIT Computer Centre", 
+    "id": "5955190245176725673", 
+    "address": {
+     "formatted": "Allahabad, Uttar Pradesh, India"
+    }
+   }, 
+   "published": "2013-02-02T22:41:44.751Z", 
+   "id": "z12vf3jr0sqpx12l123msz0huzvwe3qv5", 
+   "address": "Allahabad, Uttar Pradesh, India"
+  }
+ ], 
+ "kind": "plus#activityFeed", 
+ "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/do80b95laLG5QZ1rNQmX9uRKJEM\"", 
+ "updated": "2015-02-23T16:06:20.299Z", 
+ "title": "Google+ List of Activities for Collection PUBLIC"
+}

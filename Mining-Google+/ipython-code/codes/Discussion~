@@ -1,0 +1,48 @@
+
+
+1) query by id
+2) query by name
+3) tf-idf 
+	Drawbacks -
+	a)order of terms  --  Green Mr. and Mr. Green   (Method code - Output Verify )
+	b)N-gram analysis -- Context Not considered - Ex -  book,match,cave,cool
+	c)Cosine Similarity 
+	d)Case sensitivity is not considered -- Ex Mr. Green , Web 2.0  ---(tick)
+4) cosine similarity (only concept)
+5) Full code -
+	Widgets
+	Bigram Functionality
+	Scoring Methods - Jaccard , Raw Frequency , Dice's Coefficient
+
+
+
+
+	
+1) Bigram Finding -
+	Drawback - Punctuations not cleaNed 
+	
+2) Implementation Scoring Methods
+	-Results 
+	-Innovation ? 
+
+3) Document Classification - Possible tick 
+
+4) Chat Implementation		
+	-Sticker Suggestion
+		Problems -
+		Language Barrier ? Think 
+	-Overall Sentiment		
+	
+	
+	
+Karan -
+TF-IDF Implementation -- Bigram -> Posts ranking
+	
+MONA and Ishant -
+1) Read all scoring methods
+2) Output Store with and without filter
+3) Combination of scoring method
+4) Innovative Scoring - Own Implementation - Punctuation remove and scoring improve	
+
+Ishant-
+

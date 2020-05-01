@@ -1,0 +1,2207 @@
+[
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "+Jennifer Pahlka\u00a0and I share a moment of joy at the top of Warmiwanuska Pass, the highest point on the...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/YgwTDWpE96Y", 
+  "object": {
+   "resharers": {
+    "totalItems": 3, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13wzhsgtryxspipx04chl3pvxfbszirt5o/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "+Jennifer Pahlka\u00a0and I share a moment of joy at the top of Warmiwanuska Pass, the highest point on the Inca Trail (just shy of 14,000 feet.) This was followed by 2500 steps down the other side, then a couple of thousand back up to the top of the next pass. But we had a blast!", 
+     "fullImage": {
+      "url": "https://lh3.googleusercontent.com/-VbQS0ALYvVI/VUbIlsYPktI/AAAAAAADRyU/B115fJLXJ1I/w1824-h2736/DSC00877.JPG", 
+      "width": 1824, 
+      "type": "image/jpeg", 
+      "height": 2736
+     }, 
+     "url": "https://plus.google.com/photos/107033731246200681024/albums/6144819289598967985/6144819291487179474", 
+     "image": {
+      "url": "https://lh3.googleusercontent.com/-VbQS0ALYvVI/VUbIlsYPktI/AAAAAAADRyU/B115fJLXJ1I/w506-h750/DSC00877.JPG", 
+      "type": "image/jpeg"
+     }, 
+     "content": "DSC00877.JPG", 
+     "id": "107033731246200681024.6144819291487179474", 
+     "objectType": "photo"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/YgwTDWpE96Y", 
+   "content": "+Jennifer Pahlka\u00a0and I share a moment of joy at the top of Warmiwanuska Pass, the highest point on the Inca Trail (just shy of 14,000 feet.) This was followed by 2500 steps down the other side, then a couple of thousand back up to the top of the next pass. But we had a blast!\ufeff", 
+   "plusoners": {
+    "totalItems": 162, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13wzhsgtryxspipx04chl3pvxfbszirt5o/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 12, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13wzhsgtryxspipx04chl3pvxfbszirt5o/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-05-04T01:18:56.627Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/KVxuUVFf8NRpyeGppot3j5sQOp8\"", 
+  "published": "2015-05-04T01:18:56.627Z", 
+  "id": "z13wzhsgtryxspipx04chl3pvxfbszirt5o"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Zach Bogue - here I am wearing my Founder's Den t-shirt while hiking the Inca Trail!", 
+  "url": "https://plus.google.com/+TimOReilly/posts/WeJj9GGSepX", 
+  "object": {
+   "resharers": {
+    "totalItems": 1, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12sj5jqjranylb5l04chl3pvxfbszirt5o/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "Zach Bogue - here I am wearing my Founder's Den t-shirt while hiking the Inca Trail!", 
+     "fullImage": {
+      "url": "https://lh3.googleusercontent.com/-V7JKnuxxWuY/VUaczwf2xVI/AAAAAAADRjo/8DeEbLgrDSo/w2736-h1824/DSC00834.JPG", 
+      "width": 2736, 
+      "type": "image/jpeg", 
+      "height": 1824
+     }, 
+     "url": "https://plus.google.com/photos/107033731246200681024/albums/6144771156867238065/6144771154599396690", 
+     "image": {
+      "url": "https://lh3.googleusercontent.com/-V7JKnuxxWuY/VUaczwf2xVI/AAAAAAADRjo/8DeEbLgrDSo/w506-h750/DSC00834.JPG", 
+      "type": "image/jpeg"
+     }, 
+     "content": "DSC00834.JPG", 
+     "id": "107033731246200681024.6144771154599396690", 
+     "objectType": "photo"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/WeJj9GGSepX", 
+   "content": "Zach Bogue - here I am wearing my Founder's Den t-shirt while hiking the Inca Trail!\ufeff", 
+   "plusoners": {
+    "totalItems": 140, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12sj5jqjranylb5l04chl3pvxfbszirt5o/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 9, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12sj5jqjranylb5l04chl3pvxfbszirt5o/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-05-03T22:11:35.781Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/JLF-nishmAYsd8A7_4U75Z6HMxM\"", 
+  "published": "2015-05-03T22:11:35.781Z", 
+  "id": "z12sj5jqjranylb5l04chl3pvxfbszirt5o"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "+Jennifer Pahlka\u00a0has some visitors during lunch on our first day hiking the Inca Trail last week.", 
+  "url": "https://plus.google.com/+TimOReilly/posts/CXnJUDH1p9C", 
+  "object": {
+   "resharers": {
+    "totalItems": 3, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12vs1pxirfas3y2423gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "+Jennifer Pahlka\u00a0has some visitors during lunch on our first day hiking the Inca Trail last week.", 
+     "fullImage": {
+      "url": "https://lh3.googleusercontent.com/-uk5IFaQmD1E/VT5cgUYJsRI/AAAAAAADN64/ohys-2EF8UM/w808-h456/IMG_20150416_133142047-ANIMATION.gif", 
+      "width": 808, 
+      "type": "image/jpeg", 
+      "height": 456
+     }, 
+     "url": "https://plus.google.com/photos/107033731246200681024/albums/6142448652569682417/6142448652075512082", 
+     "image": {
+      "url": "https://lh3.googleusercontent.com/-uk5IFaQmD1E/VT5cgUYJsRI/AAAAAAADN64/ohys-2EF8UM/w506-h750/IMG_20150416_133142047-ANIMATION.gif", 
+      "type": "image/jpeg"
+     }, 
+     "content": "IMG_20150416_133142047-ANIMATION.gif", 
+     "id": "107033731246200681024.6142448652075512082", 
+     "objectType": "photo"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/CXnJUDH1p9C", 
+   "content": "+Jennifer Pahlka\u00a0has some visitors during lunch on our first day hiking the Inca Trail last week.\ufeff", 
+   "plusoners": {
+    "totalItems": 83, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12vs1pxirfas3y2423gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 12, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12vs1pxirfas3y2423gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-04-27T15:58:31.773Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/UMUNeB1rtMzRJvwBg9DQ5Ci0BPc\"", 
+  "published": "2015-04-27T15:58:31.773Z", 
+  "id": "z12vs1pxirfas3y2423gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Utterly magnificent views on the hike up from Urubamba to Maras.", 
+  "url": "https://plus.google.com/+TimOReilly/posts/iGGEaZewFSW", 
+  "object": {
+   "resharers": {
+    "totalItems": 7, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12zx5souwmrszqjq04chl3pvxfbszirt5o/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "url": "https://plus.google.com/photos/107033731246200681024/albums/6138149207465030833?authkey=CPyR0t-70bCkWA", 
+     "displayName": "4/15/15", 
+     "id": "107033731246200681024.6138149207465030833", 
+     "thumbnails": [
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6138149207465030833/6138149206104648946", 
+       "image": {
+        "url": "https://lh3.googleusercontent.com/-yg7MkbAS9QA/VS8WLoA2rPI/AAAAAAADLLE/t0eb_chMayI/w379-h379-p/15%2B-%2B4", 
+        "width": 379, 
+        "type": "image/jpeg", 
+        "height": 379
+       }, 
+       "description": ""
+      }, 
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6138149207465030833/6138149207291352434", 
+       "image": {
+        "url": "https://lh3.googleusercontent.com/-x6ys3OdJFa4/VS8WLsbyVXI/AAAAAAADLK4/w6owQv8syzc/w126-h126-p/IMG_20150415_140557345_HDR.jpg", 
+        "width": 126, 
+        "type": "image/jpeg", 
+        "height": 126
+       }, 
+       "description": ""
+      }, 
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6138149207465030833/6138149204284523922", 
+       "image": {
+        "url": "https://lh3.googleusercontent.com/-ASkQ5EUIBQs/VS8WLhO5xZI/AAAAAAADLKw/6FtPLGHqEeo/w126-h126-p/DSC00669.JPG", 
+        "width": 126, 
+        "type": "image/jpeg", 
+        "height": 126
+       }, 
+       "description": ""
+      }, 
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6138149207465030833/6138149206468722258", 
+       "image": {
+        "url": "https://lh3.googleusercontent.com/-Oy2D8abMWZk/VS8WLpXp_lI/AAAAAAADLKw/qa9u_D1gbJo/w126-h126-p/DSC00641.JPG", 
+        "width": 126, 
+        "type": "image/jpeg", 
+        "height": 126
+       }, 
+       "description": ""
+      }, 
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6138149207465030833/6138149206931905730", 
+       "image": {
+        "url": "https://lh3.googleusercontent.com/-wsE9-6w5bZk/VS8WLrGFnMI/AAAAAAADLKw/AIdu-i-5ug8/w126-h126-p/DSC00668.JPG", 
+        "width": 126, 
+        "type": "image/jpeg", 
+        "height": 126
+       }, 
+       "description": ""
+      }
+     ], 
+     "objectType": "album"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/iGGEaZewFSW", 
+   "content": "Utterly magnificent views on the hike up from Urubamba to Maras.\ufeff", 
+   "plusoners": {
+    "totalItems": 135, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12zx5souwmrszqjq04chl3pvxfbszirt5o/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 5, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12zx5souwmrszqjq04chl3pvxfbszirt5o/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-04-16T01:53:51.955Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/ApUYb4n9J5vhrpE9ySbUxmNBNiE\"", 
+  "published": "2015-04-16T01:53:51.955Z", 
+  "id": "z12zx5souwmrszqjq04chl3pvxfbszirt5o"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "That's a heck of a collection! Clever idea to display their impounded blades!", 
+  "url": "https://plus.google.com/+TimOReilly/posts/HwUk34nDC7o", 
+  "object": {
+   "resharers": {
+    "totalItems": 4, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12njz0bdwmzjxcn523gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "That's a heck of a collection! Clever idea to display their impounded blades!", 
+     "fullImage": {
+      "url": "https://lh3.googleusercontent.com/-H0r0u5PHLcY/VSvEZrrtSBI/AAAAAAADKY8/RD5_NTB-nKU/w2005-h2430/IMG_20150413_081120325_HDR%257E2.jpg", 
+      "width": 2005, 
+      "type": "image/jpeg", 
+      "height": 2430
+     }, 
+     "url": "https://plus.google.com/photos/107033731246200681024/albums/6137214861617740785/6137214862724253714", 
+     "image": {
+      "url": "https://lh3.googleusercontent.com/-H0r0u5PHLcY/VSvEZrrtSBI/AAAAAAADKY8/RD5_NTB-nKU/w506-h750/IMG_20150413_081120325_HDR%257E2.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "content": "IMG_20150413_081120325_HDR~2.jpg", 
+     "id": "107033731246200681024.6137214862724253714", 
+     "objectType": "photo"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/HwUk34nDC7o", 
+   "content": "That's a heck of a collection! Clever idea to display their impounded blades!\ufeff", 
+   "plusoners": {
+    "totalItems": 112, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12njz0bdwmzjxcn523gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 37, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12njz0bdwmzjxcn523gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-04-13T13:28:07.849Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/0SpUgZ_twOjqgMCQOUVntlMWl-k\"", 
+  "location": {
+   "position": {
+    "latitude": -12.024052619934082, 
+    "longitude": -77.1120376586914
+   }, 
+   "kind": "plus#place", 
+   "displayName": "Jorge Chavez International Airport", 
+   "id": "2266909955226494252", 
+   "address": {
+    "formatted": "s/n Av Elmer Faucett, Callao, Peru"
+   }
+  }, 
+  "published": "2015-04-13T13:28:07.849Z", 
+  "id": "z12njz0bdwmzjxcn523gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Texas has nothing on Peru. They like their Coca-Cola big down here!", 
+  "url": "https://plus.google.com/+TimOReilly/posts/btJd863eupm", 
+  "object": {
+   "resharers": {
+    "totalItems": 0, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13pe3eajkzvillyk04chl3pvxfbszirt5o/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "Texas has nothing on Peru. They like their Coca-Cola big down here!", 
+     "fullImage": {
+      "url": "https://lh3.googleusercontent.com/-ZY_npE_hINg/VSvDr18v-kI/AAAAAAADKYc/fbdClaYve4A/w2131-h2055/IMG_20150413_072611820_HDR.jpg", 
+      "width": 2131, 
+      "type": "image/jpeg", 
+      "height": 2055
+     }, 
+     "url": "https://plus.google.com/photos/107033731246200681024/albums/6137214076866153841/6137214075206105666", 
+     "image": {
+      "url": "https://lh3.googleusercontent.com/-ZY_npE_hINg/VSvDr18v-kI/AAAAAAADKYc/fbdClaYve4A/w506-h750/IMG_20150413_072611820_HDR.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "content": "IMG_20150413_072611820_HDR.jpg", 
+     "id": "107033731246200681024.6137214075206105666", 
+     "objectType": "photo"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/btJd863eupm", 
+   "content": "Texas has nothing on Peru. They like their Coca-Cola big down here!\ufeff", 
+   "plusoners": {
+    "totalItems": 53, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13pe3eajkzvillyk04chl3pvxfbszirt5o/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 6, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13pe3eajkzvillyk04chl3pvxfbszirt5o/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-04-13T13:25:04.279Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/sSb0GEmA7o_W3ScKJfXCw2sAbao\"", 
+  "published": "2015-04-13T13:25:04.279Z", 
+  "id": "z13pe3eajkzvillyk04chl3pvxfbszirt5o"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Brilliant remarks by +Mikey D\u00a0about what he learned from the healthcare.gov rescue and why he left Google...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/5MhmHNRtoW2", 
+  "object": {
+   "resharers": {
+    "totalItems": 63, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ltfexjriftp1ku23gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "Mikey Dickerson to SXSW: Why We Need You in Government", 
+     "fullImage": {
+      "url": "https://d262ilb51hltx0.cloudfront.net/max/800/1*t57RpjL2v7bhboqMv4bIxQ.jpeg", 
+      "type": "image/jpeg"
+     }, 
+     "url": "https://medium.com/@USDigitalService/mikey-dickerson-to-sxsw-why-we-need-you-in-government-f31dab3263a0", 
+     "image": {
+      "url": "https://lh6.googleusercontent.com/proxy/dUOFkOKhsBwan5ayDasAY00gaEyq6yTRi5df4th7D0Fpo50gOigvZ_EmumIuOFnzjYBtchFbh8wTUOA7rsIsot--SnSE4DDuKsH0XWWpk7_HLc6bStTnxVaKng=w506-h303", 
+      "width": 506, 
+      "type": "image/jpeg", 
+      "height": 303
+     }, 
+     "content": "Leader of U.S. Digital Service tells SXSW how he got roped into driving a new movement of technology in government\u2026and h\u2026", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/5MhmHNRtoW2", 
+   "content": "Brilliant remarks by +Mikey D\u00a0about what he learned from the healthcare.gov rescue and why he left Google for the White House. This is a must-read for anyone who cares about the future of our country.\ufeff", 
+   "plusoners": {
+    "totalItems": 190, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ltfexjriftp1ku23gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 31, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ltfexjriftp1ku23gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-04-04T14:42:49.923Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/2AuVEnnjnsJexbGs2BSB3SKDiwY\"", 
+  "published": "2015-04-04T14:42:49.923Z", 
+  "id": "z12ltfexjriftp1ku23gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Fascinating piece by Larry Summers about educational attainment and income inequality. \u00a0Not what you'd...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/gANH8Rh2qWE", 
+  "object": {
+   "resharers": {
+    "totalItems": 12, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z133yz4pdnyeyj4be04chl3pvxfbszirt5o/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "url": "http://www.hamiltonproject.org/papers/increasing_education_what_it_will_and_will_not_do_for_earnings_inequal", 
+     "image": {
+      "url": "https://lh5.googleusercontent.com/proxy/L9BUL4rWl6ViTTB203oCK9TIbW1W4Ghy1XJkZVLQzC1CTOtJkgZz9nUPVqVyGCM0EiAVcNHQHidGY4wtxj_oLCOFY-v6JNSRKh0KzwYqTCG-k-JZgmd-99CYEgEb1OQPauitj6UdgKoyY6bcVESv-SmmMOQo_gI96Q=w120-h120", 
+      "width": 120, 
+      "type": "image/jpeg", 
+      "height": 120
+     }, 
+     "fullImage": {
+      "url": "http://www.hamiltonproject.org//images/uploads/master_library/thumbnails/summers_econ_analysis_image1.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "displayName": "Increasing Education: What it Will and Will Not Do for Earnings and Earnings Inequality", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/gANH8Rh2qWE", 
+   "content": "Fascinating piece by Larry Summers about educational attainment and income inequality. \u00a0Not what you'd expect:\ufeff", 
+   "plusoners": {
+    "totalItems": 49, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z133yz4pdnyeyj4be04chl3pvxfbszirt5o/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 4, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z133yz4pdnyeyj4be04chl3pvxfbszirt5o/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-03-31T20:27:57.918Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/-ozPO9UiPfnZwtsFa4uU5phbAls\"", 
+  "published": "2015-03-31T20:27:57.918Z", 
+  "id": "z133yz4pdnyeyj4be04chl3pvxfbszirt5o"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "My latest @radar post: #SocialCivics and the architecture of participation. Inspired by @goldman joining...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/BipFsL8tjmP", 
+  "object": {
+   "resharers": {
+    "totalItems": 1, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12zdfs4crmtep32023gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "#SocialCivics and the architecture of participation - O'Reilly Radar", 
+     "fullImage": {
+      "url": "http://s.radar.oreilly.com/wp-files/2/2015/03/0315-white-house-620.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "url": "http://oreil.ly/1G3jqL6", 
+     "image": {
+      "url": "https://lh3.googleusercontent.com/proxy/N_y29vKUxOFHS3Sjj2q1uI2aHRGbijJ2VGVmKvmiBbb-zAhE9jxZ8dsOeIrdUxZCBDsDAMHgrJ4l3EE2-cn9wmah1WqIzMJJVlgU-7g9LKhPG18E6io=w506-h303-p", 
+      "width": 506, 
+      "type": "image/jpeg", 
+      "height": 303
+     }, 
+     "content": "It was big news recently that former Twitter executive Jason Goldman is joining the White House to head up a new office of Digital Strategy. In his post, Jason...", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/BipFsL8tjmP", 
+   "content": "My latest @radar post: #SocialCivics and the architecture of participation. Inspired by @goldman joining @WhiteHouse. He said he was looking for advice, so I gave some. The key message: successful participatory projects, from open source software to wikis to social media, all have small, modular units of participation. Washington generally does not. Change that.\ufeff", 
+   "plusoners": {
+    "totalItems": 23, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12zdfs4crmtep32023gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 2, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12zdfs4crmtep32023gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-03-31T13:47:21.200Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/ywFEX7483zmlE9dlVIGII3qFACI\"", 
+  "published": "2015-03-31T13:47:21.200Z", 
+  "id": "z12zdfs4crmtep32023gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "My dear friend Carolyn Shapiro does amazing projects that help communities understand their history,...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/F1E8rsm3URP", 
+  "object": {
+   "resharers": {
+    "totalItems": 4, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13lip0reljzhbr2n23gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "Rise Up Bakery by Carolyn Shapiro \u2014 Kickstarter", 
+     "fullImage": {
+      "url": "https://ksr-ugc.imgix.net/projects/1730603/photo-original.jpg?v=1426386751&w=640&h=480&fit=crop&auto=format&q=92&s=7d74e480656159ddf2f746ac4591bd6a", 
+      "type": "image/jpeg"
+     }, 
+     "url": "http://www.kickstarter.com/projects/2008634257/rise-up-bakery", 
+     "image": {
+      "url": "https://lh4.googleusercontent.com/proxy/NaaKUTMLWxdEyaLhfDchR-Eyu7pzW5gXuMqE-8Q0Q7KInh3ESe-y5jREbSn2PgbBo-y8AyhXgW7ajQLCIHdCjLIGVzvVFZTBudhtg5imlzkdXOnOPdBVzUNBv5QRsFEDwnTaoXoM1VliMe8se17cEvueH7Ul8VxWGWb-PMQsiXDhr9DJc_GHHe3vkuW_A3KAJ9q7Vuu3bhJUuqtg0TXojwbp1eg=w506-h303-p", 
+      "width": 506, 
+      "type": "image/jpeg", 
+      "height": 303
+     }, 
+     "content": "Carolyn Shapiro is raising funds for Rise Up Bakery on Kickstarter! \n\n Bread with a touch of labor history:  Revive wood fired bakery in Barre, Vermont built by Italian granite workers in 1913.", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/F1E8rsm3URP", 
+   "content": "My dear friend Carolyn Shapiro does amazing projects that help communities understand their history, and bring people together by honoring their heritage. Here is her latest, funded by Kickstarter. \u00a0I'm a supporter, and I hope you will be too. \u00a0She writes:\"The Barre Historical Society in Barre, Vermont is reviving a 1913 bakery built by the Italian granite workers to give the community good wood fired Italian bread. \u00a0We have chosen to rename the Union Cooperative Store Bakery, Rise Up Bakery, because the bakery will once again rise up in honor of the Italian granite workers who volunteered to build it and to honor the rising up in their labor history. \u00a0The many hands lifting the bread in the logo are appreciation for the cooperative way the granite workers functioned to build the bakery and to help each other in difficult times. \u00a0Kickstarter is like that cooperative action! \u00a0Rise Up Bakery will be an educational center and not a commercial bakery. \u00a0We will learn to bake with a wood fired oven and learn about Barre's rich labor history. \u00a0We hope you will \u201crise up\u201d and help the Barre Historical Society \u00a0realize this wonderful \u00a0goal.\"\ufeff", 
+   "plusoners": {
+    "totalItems": 29, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13lip0reljzhbr2n23gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 1, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13lip0reljzhbr2n23gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-03-27T17:40:30.845Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/yq2toNjS_N8qC5lCSzpqwQkNEvE\"", 
+  "published": "2015-03-27T17:40:30.845Z", 
+  "id": "z13lip0reljzhbr2n23gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "It is amazing to see trees in full bloom in Vancouver in March. Many of them are in fact past their ...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/Wgix2fwn72h", 
+  "object": {
+   "resharers": {
+    "totalItems": 6, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ljdvifneoxrj5l04chl3pvxfbszirt5o/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "It is amazing to see trees in full bloom in Vancouver in March. Many of them are in fact past their peak. I was surprised to see spring so far north, apparently the better part of a month early.", 
+     "fullImage": {
+      "url": "https://lh4.googleusercontent.com/-lJJbsun7RfI/VQo0pA69okI/AAAAAAADH78/PXkf-3ftCgU/w2432-h4320/IMG_20150318_152653273_HDR.jpg", 
+      "width": 2432, 
+      "type": "image/jpeg", 
+      "height": 4320
+     }, 
+     "url": "https://plus.google.com/photos/107033731246200681024/albums/6127768124052329313/6127768122217570882", 
+     "image": {
+      "url": "https://lh4.googleusercontent.com/-lJJbsun7RfI/VQo0pA69okI/AAAAAAADH78/PXkf-3ftCgU/w506-h750/IMG_20150318_152653273_HDR.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "content": "IMG_20150318_152653273_HDR.jpg", 
+     "id": "107033731246200681024.6127768122217570882", 
+     "objectType": "photo"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/Wgix2fwn72h", 
+   "content": "It is amazing to see trees in full bloom in Vancouver in March. Many of them are in fact past their peak. I was surprised to see spring so far north, apparently the better part of a month early.\ufeff", 
+   "plusoners": {
+    "totalItems": 177, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ljdvifneoxrj5l04chl3pvxfbszirt5o/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 21, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ljdvifneoxrj5l04chl3pvxfbszirt5o/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-03-19T02:29:57.822Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/j4d0Bcf8bneafPKVQ6cy5lNc0VM\"", 
+  "published": "2015-03-19T02:29:57.822Z", 
+  "id": "z12ljdvifneoxrj5l04chl3pvxfbszirt5o"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "9 days until SXSW Interactive: White House tech wiz Mikey Dickerson joins @pahlkadot\u00a0on March 16 to ...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/jnoHbcFx23r", 
+  "object": {
+   "resharers": {
+    "totalItems": 9, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12kvnwooxrhe5ujz04chl3pvxfbszirt5o/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "\nHow Government Fails and How You Can Fix It\n\n|\nSXSW 2015 Event Schedule\n", 
+     "fullImage": {
+      "url": "http://img.sxsw.com/2015/presenters/452845.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "url": "http://schedule.sxsw.com/2015/events/event_IAP996688", 
+     "image": {
+      "url": "https://lh3.googleusercontent.com/proxy/ikJYnW6NBENp43aGgtlt_FMKBvHInXTFnq_DIQVbTj17XqghiyOqHGN61svqjSAHfrxkEPA5jxDrZaas6Z8=w120-h120", 
+      "width": 120, 
+      "type": "image/jpeg", 
+      "height": 120
+     }, 
+     "content": "It's not just healthcare.gov. Why do US taxpayers still pay hundreds of millions of dollars for websites that should cost thousands (and often don\u2019t work)? The real reasons may ...", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/jnoHbcFx23r", 
+   "content": "9 days until SXSW Interactive: White House tech wiz Mikey Dickerson joins @pahlkadot\u00a0on March 16 to talk about How Government Fails and How You Can Fix It. \u00a0It's not just healthcare.gov (which Mikey helped fix). Why do US taxpayers still pay hundreds of millions of dollars for websites that should cost thousands (and often don\u2019t work)? The real reasons may surprise you. For government to work in the 21st century, it must become competent \u2013 even great \u2013 at digital. The bad news is that no one is going to do that for us. It\u2019s the job of the American people. The good news is that it\u2019s now possible, and the most rewarding work you\u2019ll ever do.#sxsw #usds\ufeff", 
+   "plusoners": {
+    "totalItems": 28, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12kvnwooxrhe5ujz04chl3pvxfbszirt5o/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 4, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12kvnwooxrhe5ujz04chl3pvxfbszirt5o/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-03-06T17:40:43.021Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/dSRKbyNERtdUZe-fGOxuAGcwN5o\"", 
+  "published": "2015-03-06T17:40:43.021Z", 
+  "id": "z12kvnwooxrhe5ujz04chl3pvxfbszirt5o"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "I like +Nancy Lublin's pineapple hack. #LeanInTogether", 
+  "url": "https://plus.google.com/+TimOReilly/posts/MviCUXwhunp", 
+  "object": {
+   "resharers": {
+    "totalItems": 2, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ctphydrz5zb3fx23gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "A surprising solution to sexism? PINEAPPLES!", 
+     "fullImage": {
+      "url": "http://m.c.lnkd.licdn.com/mpr/mpr/AAEAAQAAAAAAAALxAAAAJGRkNDNkNTIwLTgwN2EtNGZkZC1iN2I4LWI3OGNhZjYxMjIxNg.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "url": "https://www.linkedin.com/pulse/surprising-solution-sexism-pineapples-nancy-lublin", 
+     "image": {
+      "url": "https://lh3.googleusercontent.com/proxy/XoYnrG39IbYvzvnhHEZUgL7dcxhPPExbXq9Jlt94zc_QndRuCKJdunbB4ttUvO7jY64kroH0dQDKJmf7IGO_n-KU4kk8ShNMeBsPO8-EGVGrC3SrBTQfrOZy91jZCOyYZ25xS4ycMtIoihyzRJZgzRdRqErlQ4qcr-UWvg=w506-h303", 
+      "width": 506, 
+      "type": "image/jpeg", 
+      "height": 303
+     }, 
+     "content": "Guys often think sexist comments aren't cool but don't speak up. If the goal is for all people to view the potential of girls and women in new bold ways, then we need those dude voices! That includes boys and men--and not just as targets of awareness campaigns, but as leaders.Guys are more likely to shut down sexist comments when (a) they\u2019re supported by other guys (b) they have a clear and easy tactic to use and (c) its fun, not lame.One idea? P...", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/MviCUXwhunp", 
+   "content": "I like +Nancy Lublin's pineapple hack. #LeanInTogether\ufeff", 
+   "plusoners": {
+    "totalItems": 43, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ctphydrz5zb3fx23gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 10, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ctphydrz5zb3fx23gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-03-06T15:08:44.374Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/00Io4Te-tgU199xvmUX5_XD_fIE\"", 
+  "published": "2015-03-06T15:08:44.374Z", 
+  "id": "z13ctphydrz5zb3fx23gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "There are two kinds of interviews: those that quote you literally, and those that distill the essence...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/MNAykeY4oCJ", 
+  "object": {
+   "resharers": {
+    "totalItems": 20, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13bytzaewmhgrs3t23gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "Tim O\u2019Reilly: Silicon Valley is massively underestimating the impact of IoT (interview)", 
+     "fullImage": {
+      "url": "http://i1.wp.com/venturebeat.com/wp-content/uploads/2015/03/437014292_81c998f22e_b.jpg?fit=780%2C9999", 
+      "type": "image/jpeg"
+     }, 
+     "url": "http://venturebeat.com/2015/03/04/tim-oreilly-silicon-valley-is-massively-underestimating-the-impact-of-iot-interview", 
+     "image": {
+      "url": "https://lh3.googleusercontent.com/proxy/UOBDYM_nvKZx0pbJaYp9Yv-gCaRSielhfOYT9fSU-NS_aUiUaWG5KhhyB236Xm5cNgBiyCZP2GvFGF1e_A2Z48ilaJlzJOfH9tDP-QwZ-hYS23eNS64SUu_wqraiQyvOC61GAgFg-kQXCdiOtduFLeegHDxD=w506-h303-p", 
+      "width": 506, 
+      "type": "image/jpeg", 
+      "height": 303
+     }, 
+     "content": "Smart forks. Smart tennis rackets. Smart toothbrushes. Smart teddy bears. Smart fitness bands. The Internet of Things hype is inspiring an endless stream of connected gadgets that light up Kickstar...", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/MNAykeY4oCJ", 
+   "content": "There are two kinds of interviews: those that quote you literally, and those that distill the essence of what you said, perfectly. Chris O'Brien's @venturebeat interview with me did the latter, and nailed it. \u00a0Just about the only time I can think of a flawless transcript of what was meant rather than just what was said.\ufeff", 
+   "plusoners": {
+    "totalItems": 72, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13bytzaewmhgrs3t23gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 5, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13bytzaewmhgrs3t23gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-03-04T16:03:53.169Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/RfOh_ZnCok_lUvDqO8LTlERyebg\"", 
+  "published": "2015-03-04T16:03:53.169Z", 
+  "id": "z13bytzaewmhgrs3t23gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "What a great read! \u00a0@neilhimself explains why our future depends on libraries, reading and daydreaming...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/2hPChcMptgQ", 
+  "object": {
+   "resharers": {
+    "totalItems": 69, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12cstmjykyfcp4ke23gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "Neil Gaiman: Why our future depends on libraries, reading and daydreaming", 
+     "fullImage": {
+      "url": "http://static.guim.co.uk/sys-images/BOOKS/Pix/pictures/2013/10/15/1381845012962/Neil-Gaiman-013.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "url": "http://www.theguardian.com/books/2013/oct/15/neil-gaiman-future-libraries-reading-daydreaming", 
+     "image": {
+      "url": "https://lh6.googleusercontent.com/proxy/cR2EcpXMu3xxljNv8c5k18VxJTPhKrSkbxJfKDjR-jjFrK_-Kb1Aj1DxYdt6ZhGdquD1G7KPY3-T2_vKvNo9pUCnMoYfBcg8UR54wpW3OI6AOckPgaKactC2H-V77T8d90OTGr3uZIC6hm6nt1z5fFcemQ=w506-h303-p", 
+      "width": 506, 
+      "type": "image/jpeg", 
+      "height": 303
+     }, 
+     "content": "A lecture explaining why using our imaginations, and providing for others to use theirs, is an obligation for all citizens", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/2hPChcMptgQ", 
+   "content": "What a great read! \u00a0@neilhimself explains why our future depends on libraries, reading and daydreaming. I\u00a0love the bit about China! And I am horrified by the bit about prisons.\ufeff", 
+   "plusoners": {
+    "totalItems": 136, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12cstmjykyfcp4ke23gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 3, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12cstmjykyfcp4ke23gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-03-03T05:20:45.800Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/O2z_6lc8Xw0bV0CLwwXpjU03v0A\"", 
+  "published": "2015-03-03T05:20:45.800Z", 
+  "id": "z12cstmjykyfcp4ke23gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Help O'Reilly Media learn more about software architecture roles by completing a short industry survey...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/Qq1i9dxmFBE", 
+  "object": {
+   "resharers": {
+    "totalItems": 4, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12gtvvoiqjyw1ioi04chl3pvxfbszirt5o/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "url": "http://oreil.ly/1A6gcVi", 
+     "displayName": "Software Architecture Industry Survey: O'Reilly Software Architecture Conference - O'Reilly Conferences, March 16 - 19, 2015, Boston, MA", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/Qq1i9dxmFBE", 
+   "content": "Help O'Reilly Media learn more about software architecture roles by completing a short industry survey. You could win a free pass to the new O'Reilly Software Architecture Conference in Boston next month. #OReillySACon\ufeff", 
+   "plusoners": {
+    "totalItems": 23, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12gtvvoiqjyw1ioi04chl3pvxfbszirt5o/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 2, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12gtvvoiqjyw1ioi04chl3pvxfbszirt5o/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-02-28T18:00:39.661Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/SsQitr8a9muKYE2P9n8e1NFowso\"", 
+  "published": "2015-02-28T18:00:39.661Z", 
+  "id": "z12gtvvoiqjyw1ioi04chl3pvxfbszirt5o"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Just about to go on with Marc Goodman (@futurecrimes) for a discussion of his book Future Crimes starting...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/49Z4kcppV1Q", 
+  "object": {
+   "resharers": {
+    "totalItems": 0, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13rs1myts2ax3u0m23gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "Author Marc Goodman in Conversation with Tim O'Reilly - Google+", 
+     "fullImage": {
+      "url": "https://lh5.googleusercontent.com/-pJ937ypSTXk/VOy8yb8vcxI/AAAAAAAAAAA/3Rzw5twdw20/w940-h280-n/event_theme.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "url": "https://plus.google.com/events/c7lf0pdvsn6nb0qj3cibnu6othc", 
+     "image": {
+      "url": "https://lh5.googleusercontent.com/-pJ937ypSTXk/VOy8yb8vcxI/AAAAAAAAAAA/3Rzw5twdw20/w120-h120/event_theme.jpg", 
+      "width": 120, 
+      "type": "image/jpeg", 
+      "height": 120
+     }, 
+     "content": "Tweet your questions for the chat with the hashtag #FutureCrimesConvo, and start reading Future Crimes now: www.futurecrimes.com\n\nIn FUTURE CRIMES, one of the world\u2019s leading authorities on global security, Marc Goodman, takes readers deep into the digital underground to expose the alarming ways criminals, corporations, and even countries are using new and emerging technologies against you\u2014and how this makes everyone more vulnerable than ever ima...", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/49Z4kcppV1Q", 
+   "content": "Just about to go on with Marc Goodman (@futurecrimes) for a discussion of his book Future Crimes starting in about 7 minutes, here:\u00a0https://plus.google.com/events/c7lf0pdvsn6nb0qj3cibnu6othc \u00a0Join us! \u00a0It should be a fascinating conversation.\ufeff", 
+   "plusoners": {
+    "totalItems": 9, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13rs1myts2ax3u0m23gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 1, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13rs1myts2ax3u0m23gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-02-26T20:54:11.661Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/0BUU5s-v4Fv8yGf94v-vUZ-boYk\"", 
+  "published": "2015-02-26T20:54:11.661Z", 
+  "id": "z13rs1myts2ax3u0m23gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "I'm going to be doing a google hangout this Thursday, February 26 at 1 pm Pacific, with Marc Goodman...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/6J91csRt9jK", 
+  "object": {
+   "resharers": {
+    "totalItems": 4, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12rdlnpjn2xfjp0z23gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "Author Marc Goodman in Conversation with Tim O'Reilly - Google+", 
+     "fullImage": {
+      "url": "https://lh5.googleusercontent.com/-pJ937ypSTXk/VOy8yb8vcxI/AAAAAAAAAAA/3Rzw5twdw20/w940-h280-n/event_theme.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "url": "https://plus.google.com/u/1/events/c7lf0pdvsn6nb0qj3cibnu6othc", 
+     "image": {
+      "url": "https://lh5.googleusercontent.com/-pJ937ypSTXk/VOy8yb8vcxI/AAAAAAAAAAA/3Rzw5twdw20/w120-h120/event_theme.jpg", 
+      "width": 120, 
+      "type": "image/jpeg", 
+      "height": 120
+     }, 
+     "content": "Tweet your questions for the chat with the hashtag #FutureCrimesConvo, and start reading Future Crimes now: www.futurecrimes.com\n\nIn FUTURE CRIMES, one of the world\u2019s leading authorities on global security, Marc Goodman, takes readers deep into the digital underground to expose the alarming ways criminals, corporations, and even countries are using new and emerging technologies against you\u2014and how this makes everyone more vulnerable than ever ima...", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/6J91csRt9jK", 
+   "content": "I'm going to be doing a google hangout this Thursday, February 26 at 1 pm Pacific, with Marc Goodman, author of the new book Future Crimes, talking about the remarkable underworld of the internet.Tweet your questions for the chat with the hashtag #FutureCrimesConvo, and start reading Future Crimes now: www.futurecrimes.com\ufeff", 
+   "plusoners": {
+    "totalItems": 27, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12rdlnpjn2xfjp0z23gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 1, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12rdlnpjn2xfjp0z23gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-02-24T20:19:31.453Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/amYCK42tdE1A_fPM_NeV8nLw6MQ\"", 
+  "published": "2015-02-24T20:19:31.453Z", 
+  "id": "z12rdlnpjn2xfjp0z23gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Really great career advice here: \"Getting off the \u201cI should learn Python\u2026 someday\u201d train and focusing...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/SoSEzG1cxTP", 
+  "object": {
+   "resharers": {
+    "totalItems": 8, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13bct5afuvedtc4u04chl3pvxfbszirt5o/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "Your new career awaits! Transitioning to a new position - Safari Blog", 
+     "fullImage": {
+      "url": "https://blog.safaribooksonline.com/wp-content/uploads/2014/08/safari-ad1.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "url": "https://blog.safaribooksonline.com/2015/02/23/launching-a-new-career", 
+     "image": {
+      "url": "https://lh5.googleusercontent.com/proxy/Yyb57WizKWNbDgwR9swyTtdU9y5J81vyyqJ6i3jUy8pqOHC6JHCgbSOfdd11j0pzzWZcYXT-iN_wiV2-cYtMvbIjxJ_QP8p1MFTb14vlqZqspn92vrCRglb51yw=w120-h120", 
+      "width": 120, 
+      "type": "image/jpeg", 
+      "height": 120
+     }, 
+     "content": "A little over a year ago, I decided to leave behind seven years of work experience in academic libraries and begin a new career in community and marketing", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/SoSEzG1cxTP", 
+   "content": "Really great career advice here: \"Getting off the \u201cI should learn Python\u2026 someday\u201d train and focusing on topics that interest me (rather than an arbitrary skill I thought I should learn) was extremely liberating.\"\ufeff", 
+   "plusoners": {
+    "totalItems": 33, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13bct5afuvedtc4u04chl3pvxfbszirt5o/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 2, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13bct5afuvedtc4u04chl3pvxfbszirt5o/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-02-24T16:31:34.150Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/UY4qE2MgKXcU2HM4EHc_pOCafqM\"", 
+  "published": "2015-02-24T16:31:34.150Z", 
+  "id": "z13bct5afuvedtc4u04chl3pvxfbszirt5o"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Neville Chamberlin, Winston Churchill, and climate change. A good reminder to politicians about the ...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/MBcgXvC9XiH", 
+  "object": {
+   "resharers": {
+    "totalItems": 7, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ljfqxek2juhpfs23gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "We Shall Fight On The Beaches", 
+     "fullImage": {
+      "url": "https://d262ilb51hltx0.cloudfront.net/max/800/1*SC1MVBMeEtiu5jk-lJPRxw.jpeg", 
+      "type": "image/jpeg"
+     }, 
+     "url": "https://medium.com/@schulkin/we-shall-fight-on-the-beaches-860ac811a09", 
+     "image": {
+      "url": "https://lh3.googleusercontent.com/proxy/QPdnE2iTXirGk7sFBbx3Mo9-YVPCk1qtcmsvpCTzKl6CHrHInTSHtiwypfOZDm4J-MMwp6nXoRSc1Wr6-252eZcaU0bfsw_Vjcf2VGBGQgAZzzRIlP5YRkFvgQ=w506-h303-p", 
+      "width": 506, 
+      "type": "image/jpeg", 
+      "height": 303
+     }, 
+     "content": "A two-part essay about the human heart, the human mind, and how they relate to the climate crisis.", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/MBcgXvC9XiH", 
+   "content": "Neville Chamberlin, Winston Churchill, and climate change. A good reminder to politicians about the importance of thinking about things that are hard to imagine.\ufeff", 
+   "plusoners": {
+    "totalItems": 47, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ljfqxek2juhpfs23gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 4, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ljfqxek2juhpfs23gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-02-22T19:16:49.702Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/rp3GvvQj8VAxwK7vliUQfndvj8Y\"", 
+  "published": "2015-02-22T19:16:49.702Z", 
+  "id": "z12ljfqxek2juhpfs23gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Santa Fe sunset", 
+  "url": "https://plus.google.com/+TimOReilly/posts/joj4r95Rhcf", 
+  "object": {
+   "resharers": {
+    "totalItems": 7, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ujdehoq3gg1xjz04chl3pvxfbszirt5o/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "url": "https://plus.google.com/photos/107033731246200681024/albums/6115137978110142705?authkey=CNPC99LLiuOLZA", 
+     "displayName": "2/12/15", 
+     "id": "107033731246200681024.6115137978110142705", 
+     "thumbnails": [
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6115137978110142705/6115137976494711170", 
+       "image": {
+        "url": "https://lh4.googleusercontent.com/-FLU29_9__kI/VN1Vlxl34YI/AAAAAAADF1k/3NO5I7TRVX4/w337-h337-p/15%2B-%2B1", 
+        "width": 337, 
+        "type": "image/jpeg", 
+        "height": 337
+       }, 
+       "description": ""
+      }, 
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6115137978110142705/6115137976400701794", 
+       "image": {
+        "url": "https://lh6.googleusercontent.com/-8kT9BEzhqXU/VN1VlxPdaWI/AAAAAAADF1M/pqpYRKUa16o/w168-h168-p/15%2B-%2B2", 
+        "width": 168, 
+        "type": "image/jpeg", 
+        "height": 168
+       }, 
+       "description": ""
+      }, 
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6115137978110142705/6115137976465548018", 
+       "image": {
+        "url": "https://lh3.googleusercontent.com/-wcfw0AL_-Ec/VN1Vlxe64vI/AAAAAAADF1Y/b_LDQjke58U/w168-h168-p/15%2B-%2B3", 
+        "width": 168, 
+        "type": "image/jpeg", 
+        "height": 168
+       }, 
+       "description": ""
+      }
+     ], 
+     "objectType": "album"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/joj4r95Rhcf", 
+   "content": "Santa Fe sunset\ufeff", 
+   "plusoners": {
+    "totalItems": 161, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ujdehoq3gg1xjz04chl3pvxfbszirt5o/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 5, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ujdehoq3gg1xjz04chl3pvxfbszirt5o/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-02-13T01:38:34.680Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/J_Bs4cMtcqFE6CpUJT_27Sx4Xn8\"", 
+  "location": {
+   "position": {
+    "latitude": 35.64002990722656, 
+    "longitude": -106.03180694580078
+   }, 
+   "kind": "plus#place", 
+   "displayName": "(35.6400296, -106.0318060)"
+  }, 
+  "published": "2015-02-13T01:38:34.680Z", 
+  "id": "z13ujdehoq3gg1xjz04chl3pvxfbszirt5o"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Absolutely fascinating exploration of the microbiome of a city.\n\nFor those who don't know what the microbiome...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/7EaHeYc1BiB", 
+  "object": {
+   "resharers": {
+    "totalItems": 55, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ahvwpbv34xfcl523gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "Big Data and Bacteria: Mapping the New York Subway\u2019s DNA - WSJ", 
+     "fullImage": {
+      "url": "http://si.wsj.net/public/resources/images/BN-GU377_0204pa_G_20150204111548.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "url": "http://www.wsj.com/articles/big-data-and-bacteria-mapping-the-new-york-subways-dna-1423159629", 
+     "image": {
+      "url": "https://lh4.googleusercontent.com/proxy/EyHjStlzfD1779F4XTLcdudJnoVpCg08RyUgEqKkNvblfUJb2-1aZ9sXiQ7GWrxr1sfi_GwHPNxN-i8qq4j-oAlHCXmbeK_UzxQIbxLR4GntELk93WRzmP9SupDEMQ=w506-h303-p", 
+      "width": 506, 
+      "type": "image/jpeg", 
+      "height": 303
+     }, 
+     "content": "Scientists in 18-Month Project Gather DNA Throughout Transit System to Identify Germs, Study Urban Microbiology", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/7EaHeYc1BiB", 
+   "content": "Absolutely fascinating exploration of the microbiome of a city.For those who don't know what the microbiome is, the article defines it with some interesting statistics:\"Typically, every person is home to about a hundred trillion microbial cells bearing five million different genes, totaling about 5 pounds of micro-organisms per person. Indeed, microbes in and on the body outnumber human cells about 10 to one.\u201cYou are a minority party in the democracy of the body,\u201d Dr. Mason said.\"The body\u2019s collection of microbes, called the microbiome, influences health in ways that researchers are only beginning to understand. They may be key to proper digestion, vitamin synthesis and brain function, new research suggests. Changes among the millions of microbes living in the human stomach also may promote obesity, trigger ulcers or affect how well a flu vaccine works.\"The article describes a research project to explore signs of this microbiome expressed on surfaces throughout the NYC subways.My two favorite quotes:\u201cA city is like an organism,\u201d said IBM Corp. computational biologist Robert Prill, who is among those at the company investigating ways to better collect and analyze these immense new public-health genome databases. \u201cIt has a circulating system consisting of the movement of people.\u201dand\u201cWe know next to nothing about the ecology of urban environments,\u201d said evolutionary biologist Jonathan Eisen at the University of California at Davis. \u201cHow will we know if there is something abnormal if we don\u2019t know what normal is?\u201d\ufeff", 
+   "plusoners": {
+    "totalItems": 180, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ahvwpbv34xfcl523gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 20, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ahvwpbv34xfcl523gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-02-06T12:17:32.127Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/joJiQElpEACAt7GEm2NU1Zql3oM\"", 
+  "published": "2015-02-06T12:17:32.127Z", 
+  "id": "z12ahvwpbv34xfcl523gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Fascinating history of the lobbying campaign that took streets away from pedestrians and gave them to...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/7ZCG7ftQdvo", 
+  "object": {
+   "resharers": {
+    "totalItems": 162, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z134injrasmvuta1b23gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "The forgotten history of how automakers invented the crime of \"jaywalking\"", 
+     "fullImage": {
+      "url": "https://cdn0.vox-cdn.com/uploads/chorus_asset/file/2936404/jaywalking-double.0.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "url": "http://www.vox.com/2015/1/15/7551873/jaywalking-history", 
+     "image": {
+      "url": "https://lh4.googleusercontent.com/proxy/qu0SJGYh0OPUBmJRwKyJfzwkP1xXbyl8RdBspUgwZA2cxbdHFqFvj_uzgUTbfxHqvijO3kp2edw4BvUTdJgyHQvNEyBzJ244cstsf8qpQ8x0Nf1TA7zvShTPpllwFQ5q5PY=w506-h303", 
+      "width": 506, 
+      "type": "image/jpeg", 
+      "height": 303
+     }, 
+     "content": "In the 1920s, auto groups redefined who owned the city street.", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/7ZCG7ftQdvo", 
+   "content": "Fascinating history of the lobbying campaign that took streets away from pedestrians and gave them to motorists.\ufeff", 
+   "plusoners": {
+    "totalItems": 361, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z134injrasmvuta1b23gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 57, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z134injrasmvuta1b23gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-01-16T01:22:14.924Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/XPl8c-JBil07y6fWbAi5bN4twuc\"", 
+  "published": "2015-01-16T01:22:14.924Z", 
+  "id": "z134injrasmvuta1b23gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Super-interesting. I am fascinated by the possibilities.", 
+  "url": "https://plus.google.com/+TimOReilly/posts/CAiiGasi2mp", 
+  "object": {
+   "resharers": {
+    "totalItems": 37, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ttbho1tmdczsm223gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "How Bitcoin\u2019s Blockchain Could Power an Alternate Internet", 
+     "fullImage": {
+      "url": "https://d262ilb51hltx0.cloudfront.net/max/800/1*Ck3cQIL3-nAmpPpCdGIuBg.jpeg", 
+      "type": "image/jpeg"
+     }, 
+     "url": "https://medium.com/backchannel/how-bitcoins-blockchain-could-power-an-alternate-internet-bb501855af67", 
+     "image": {
+      "url": "https://lh5.googleusercontent.com/proxy/mFovRoklWfl7jKYk9iyqMSMCXJkc_GBrUh1jnv-3TUKxiWTzZfSL-XsFd22xcwlAc5oG6tLq2knfBz2bXI-K8TfPAw-M8eD0l23M_yDZiFRfhq9qru7Xs2jigA=w506-h303-p", 
+      "width": 506, 
+      "type": "image/jpeg", 
+      "height": 303
+     }, 
+     "content": "Tricky? Sure. But it would transform the net into a universal \u201csource of truth.\u201d", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/CAiiGasi2mp", 
+   "content": "Super-interesting. I am fascinated by the possibilities.\ufeff", 
+   "plusoners": {
+    "totalItems": 133, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ttbho1tmdczsm223gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 11, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ttbho1tmdczsm223gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2015-01-14T19:37:30.862Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/aDpBeSFNazKPSZTHxeNkMZvid-g\"", 
+  "published": "2015-01-14T19:37:30.862Z", 
+  "id": "z12ttbho1tmdczsm223gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "The best definition of Freudian psychoanalysis I've ever seen, from poet W.H. Auden:\n\n\"...he merely ...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/ZE3cDmqLXnN", 
+  "object": {
+   "resharers": {
+    "totalItems": 3, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13vvt4ylxaew1pa004chl3pvxfbszirt5o/people/resharers"
+   }, 
+   "url": "https://plus.google.com/+TimOReilly/posts/ZE3cDmqLXnN", 
+   "content": "The best definition of Freudian psychoanalysis I've ever seen, from poet W.H. Auden:\"...he merely toldthe unhappy Present to recite the Pastlike a poetry lesson till sooner or laterit faltered at the line wherelong ago the accusations had begun...\"Quoted in Richard Greene's introduction to the Collector's Library edition of Graham Greene's Ministry of Fear.(I found the book a bit odd, but compelling.)\ufeff", 
+   "plusoners": {
+    "totalItems": 43, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13vvt4ylxaew1pa004chl3pvxfbszirt5o/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 3, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13vvt4ylxaew1pa004chl3pvxfbszirt5o/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2014-12-29T21:43:23.927Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/FnmAKKtps6bnh026tQIkDXG-x68\"", 
+  "published": "2014-12-29T21:43:23.927Z", 
+  "id": "z13vvt4ylxaew1pa004chl3pvxfbszirt5o"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Jen was singing Christmas carols as we skied down the mountain at sunset. Happiness!", 
+  "url": "https://plus.google.com/+TimOReilly/posts/MHvQn9jSAkw", 
+  "object": {
+   "resharers": {
+    "totalItems": 1, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z120dz4zewr5fze3t23gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "Jen was singing Christmas carols as we skied down the mountain at sunset. Happiness!", 
+     "fullImage": {
+      "url": "https://lh5.googleusercontent.com/-45Lgz3i5Md4/VJtQiDGh5vI/AAAAAAADB4M/lKbLL5WNXZc/w4320-h2432/14%2B-%2B1", 
+      "width": 4320, 
+      "type": "image/jpeg", 
+      "height": 2432
+     }, 
+     "url": "https://plus.google.com/photos/107033731246200681024/albums/6096555071057769809/6096555066454566642", 
+     "image": {
+      "url": "https://lh5.googleusercontent.com/-45Lgz3i5Md4/VJtQiDGh5vI/AAAAAAADB4M/lKbLL5WNXZc/w506-h750/14%2B-%2B1", 
+      "type": "image/jpeg"
+     }, 
+     "content": "12/24/14 - 1", 
+     "id": "107033731246200681024.6096555066454566642", 
+     "objectType": "photo"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/MHvQn9jSAkw", 
+   "content": "Jen was singing Christmas carols as we skied down the mountain at sunset. Happiness!\ufeff", 
+   "plusoners": {
+    "totalItems": 90, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z120dz4zewr5fze3t23gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 7, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z120dz4zewr5fze3t23gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2014-12-24T23:47:22.892Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/hhBt2Dk8fBg2qEHkMJJewx-AAVI\"", 
+  "published": "2014-12-24T23:47:22.892Z", 
+  "id": "z120dz4zewr5fze3t23gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "This piece about the \"everyone should learn to program\" meme is completely right on. \u00a0\"Learning to program...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/MRnbgjTKbRT", 
+  "object": {
+   "resharers": {
+    "totalItems": 20, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z131c3cyrnjwu543u23gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "End-user computing", 
+     "fullImage": {
+      "url": "https://d262ilb51hltx0.cloudfront.net/max/800/0*YCaKh__DeUBTomGG.jpeg", 
+      "type": "image/jpeg"
+     }, 
+     "url": "https://medium.com/the-truant-haruspex/end-user-computing-5367171478b7", 
+     "image": {
+      "url": "https://lh6.googleusercontent.com/proxy/8eGUo-k8aYQFSDP8jbDyqnnM4ip0ks5CZ6mo1mc8Jm7vDo9-yMR_kGsHKQI8ipTDIG-7yU9HLFOtZS_1AGrOIVaHi3pNywWDASLb0VlADi8H1dLBMA=w506-h303", 
+      "width": 506, 
+      "type": "image/jpeg", 
+      "height": 303
+     }, 
+     "content": "Bonnie Nardi is an anthropologist who studies interactions between humans and computers. In 1993, she published her firs\u2026", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/MRnbgjTKbRT", 
+   "content": "This piece about the \"everyone should learn to program\" meme is completely right on. \u00a0\"Learning to program for its own sake, rather than focused on a task the student wants to achieve, suffers from the problem of attracting only people who are already interested in programming.\" via +Mike Loukides\u00a0\ufeff", 
+   "plusoners": {
+    "totalItems": 100, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z131c3cyrnjwu543u23gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 13, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z131c3cyrnjwu543u23gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2014-12-21T17:17:26.882Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/fmncv0C3wtUZ9m1ui7bEz6GSE_A\"", 
+  "published": "2014-12-21T17:17:26.882Z", 
+  "id": "z131c3cyrnjwu543u23gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "This was my favorite piece in this Sunday's New York Times. It's a fascinating article about CBW, a ...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/VsvsS9nagtU", 
+  "object": {
+   "resharers": {
+    "totalItems": 33, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13istgpmpumuhoxg04chl3pvxfbszirt5o/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "Small Bank in Kansas Is a Financial Testing Ground - NYTimes.com", 
+     "fullImage": {
+      "url": "http://graphics8.nytimes.com/images/2014/12/14/business/14-KANSASBANK/14-KANSASBANK-videoSixteenByNine600.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "url": "http://dealbook.nytimes.com/2014/12/13/small-bank-in-kansas-is-a-financial-testing-ground", 
+     "image": {
+      "url": "https://lh6.googleusercontent.com/proxy/Q5NN99lazFk8uwCkY6cTJQAbMspylys0lW1_Q542tPQYLPmEN8TruxyY2XFOswU58ucCmVn9ik3xAEgnmBFRGUBHfwTL14MPx6BEcqB7iIUP5YeZvhqc3W9Dv-gHyc24h9eXfsh8Io2cUSIg0uR9G1teZ_YwnT5BpLoDjbw=w506-h303", 
+      "width": 506, 
+      "type": "image/jpeg", 
+      "height": 303
+     }, 
+     "content": "Suchitra Padmanabhan is at the Lawrence, Kan., office of Yantra, a company her husband founded in 2012 to build software that could be introduced through the bank.Credit Steve Hebert for The New York Times", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/VsvsS9nagtU", 
+   "content": "This was my favorite piece in this Sunday's New York Times. It's a fascinating article about CBW, a tiny bank in Kansas, that has become a laboratory for financial innovation with a focus on better user experience.\"The creation of the new bank, and the maintenance of the old one, are the work of a couple who were born in India and ended up in Kansas after living in Silicon Valley and passing through jobs at Google and Lehman Brothers....\"Their work is an unusual experiment: a new kind of mom-and-pop business trying to reshape a highly regulated and innovation-resistant industry. The new services that CBW is providing, like instant payments to any bank in the United States, direct remittance transfers abroad and specialized debit cards, might seem as if they should be painless upgrades in an age of high-frequency trading and interplanetary space missions. But with most banks, it still takes longer to send money to another country or even to another state than it does to travel the same distance.\"I was particularly struck by this paragraph, which reminded me of the fundamental game plan that we practice on government with the Code for America Fellowship:\"As he and his wife had hoped, buying an established institution allowed them to examine how money transfers and payment technology worked in a traditional bank \u2014 something that was hard to see in detail from the outside \u2014 and to consider how to make changes.\"His first discovery was that nearly all banks rely on a few big, and not terribly agile, outside vendors to provide all the software that makes bank computer systems work. Mr. Ramamurthi found a small technology provider that would be more flexible and allow him to begin tweaking the software....\"Get inside, figure out how it works now. Then start to iterate towards change, making the institution more flexible, and able to meet real user needs.\ufeff", 
+   "plusoners": {
+    "totalItems": 168, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13istgpmpumuhoxg04chl3pvxfbszirt5o/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 21, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13istgpmpumuhoxg04chl3pvxfbszirt5o/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2014-12-15T05:36:42.409Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/OOKzZlfm0ODrAsvLCAeaackQ9Ec\"", 
+  "published": "2014-12-15T05:36:42.409Z", 
+  "id": "z13istgpmpumuhoxg04chl3pvxfbszirt5o"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "When I was in Spain a few weeks ago, I was struck by how beautiful the cacti could be, limned in light...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/gjTExYt36St", 
+  "object": {
+   "resharers": {
+    "totalItems": 6, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12sxvpgpzzqerljh04chl3pvxfbszirt5o/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "url": "https://plus.google.com/photos/107033731246200681024/albums/6091429969279239985", 
+     "displayName": "Flowers of the hot country", 
+     "id": "107033731246200681024.6091429969279239985", 
+     "thumbnails": [
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6091429969279239985/6091429967938243458", 
+       "image": {
+        "url": "https://lh6.googleusercontent.com/-xGimQNOkn0w/VIkbSDUgy4I/AAAAAAADBQ8/-wc1YXGlXP8/w379-h379-p/IMG_20141118_114413062.jpg", 
+        "width": 379, 
+        "type": "image/jpeg", 
+        "height": 379
+       }, 
+       "description": ""
+      }, 
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6091429969279239985/6091429970156186290", 
+       "image": {
+        "url": "https://lh5.googleusercontent.com/-KWueUqVFFto/VIkbSLlT6rI/AAAAAAADBQ4/uU_vVORUjv0/w126-h126-p/IMG_20141118_125011620.jpg", 
+        "width": 126, 
+        "type": "image/jpeg", 
+        "height": 126
+       }, 
+       "description": ""
+      }, 
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6091429969279239985/6091429970571007714", 
+       "image": {
+        "url": "https://lh3.googleusercontent.com/-kthMlL4QAFs/VIkbSNINluI/AAAAAAADBRA/50X1082xIfk/w126-h126-p/IMG_20141118_114341017.jpg", 
+        "width": 126, 
+        "type": "image/jpeg", 
+        "height": 126
+       }, 
+       "description": ""
+      }, 
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6091429969279239985/6091429971223358626", 
+       "image": {
+        "url": "https://lh5.googleusercontent.com/-01OcGff6UgQ/VIkbSPjvrKI/AAAAAAADBRM/VKdHpQfYZLA/w126-h126-p/IMG_20141118_114623175.jpg", 
+        "width": 126, 
+        "type": "image/jpeg", 
+        "height": 126
+       }, 
+       "description": ""
+      }, 
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6091429969279239985/6091429968745177250", 
+       "image": {
+        "url": "https://lh3.googleusercontent.com/-zjuFp0BK5Es/VIkbSGU5oKI/AAAAAAADBRE/0NX2d2ds7dA/w126-h126-p/IMG_20141116_153904062.jpg", 
+        "width": 126, 
+        "type": "image/jpeg", 
+        "height": 126
+       }, 
+       "description": ""
+      }, 
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6091429969279239985/6091429970460381090", 
+       "image": {
+        "url": "https://lh3.googleusercontent.com/-Ylh4ifiNXUQ/VIkbSMt1j6I/AAAAAAADBRQ/Jie27l1MmbQ/w126-h126-p/IMG_20141116_153003924.jpg", 
+        "width": 126, 
+        "type": "image/jpeg", 
+        "height": 126
+       }, 
+       "description": ""
+      }, 
+      {
+       "url": "https://plus.google.com/photos/107033731246200681024/albums/6091429969279239985/6091429971340817922", 
+       "image": {
+        "url": "https://lh5.googleusercontent.com/-w6ZcDdWw-J4/VIkbSP_v9gI/AAAAAAADBRI/WVzQtwoQ2cM/w126-h126-p/IMG_20141116_152656950.jpg", 
+        "width": 126, 
+        "type": "image/jpeg", 
+        "height": 126
+       }, 
+       "description": ""
+      }
+     ], 
+     "objectType": "album"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/gjTExYt36St", 
+   "content": "When I was in Spain a few weeks ago, I was struck by how beautiful the cacti could be, limned in light. \u00a0A good reminder of the hot country for those us experiencing today's wet and windy California.\ufeff", 
+   "plusoners": {
+    "totalItems": 70, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12sxvpgpzzqerljh04chl3pvxfbszirt5o/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 7, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12sxvpgpzzqerljh04chl3pvxfbszirt5o/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2014-12-11T04:21:50.400Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/BmdrvIV48QfhBjtsDyLjbJ1px0c\"", 
+  "published": "2014-12-11T04:21:50.400Z", 
+  "id": "z12sxvpgpzzqerljh04chl3pvxfbszirt5o"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Othermachines ready to ship. \u00a0This is the Macintosh of desktop manufacturing.", 
+  "url": "https://plus.google.com/+TimOReilly/posts/J4K7SQCM1P5", 
+  "object": {
+   "resharers": {
+    "totalItems": 1, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13si1pbglm2ddzf523gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "Othermachines ready to ship. \u00a0This is the Macintosh of desktop manufacturing.", 
+     "fullImage": {
+      "url": "https://lh5.googleusercontent.com/-1VeampwLd3Y/VIkJILQXz4I/AAAAAAADAuo/e2--8XWUMZ8/w4320-h2432/IMG_20141205_120804054.jpg", 
+      "width": 4320, 
+      "type": "image/jpeg", 
+      "height": 2432
+     }, 
+     "url": "https://plus.google.com/photos/107033731246200681024/albums/6091410005492735409/6091410007060369282", 
+     "image": {
+      "url": "https://lh5.googleusercontent.com/-1VeampwLd3Y/VIkJILQXz4I/AAAAAAADAuo/e2--8XWUMZ8/w506-h750/IMG_20141205_120804054.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "content": "IMG_20141205_120804054.jpg", 
+     "id": "107033731246200681024.6091410007060369282", 
+     "objectType": "photo"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/J4K7SQCM1P5", 
+   "content": "Othermachines ready to ship. \u00a0This is the Macintosh of desktop manufacturing.\ufeff", 
+   "plusoners": {
+    "totalItems": 46, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13si1pbglm2ddzf523gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 14, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z13si1pbglm2ddzf523gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2014-12-11T03:02:12.142Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/DvcLqQTz4N71VOqgURq8zZD5sPI\"", 
+  "published": "2014-12-11T03:02:12.142Z", 
+  "id": "z13si1pbglm2ddzf523gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "Now on Medium--the Best of O'Reilly Radar: http://bit.ly/133U4wb \u00a0Our latest thinking on the big ideas...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/LzTHAvJsDZ9", 
+  "object": {
+   "resharers": {
+    "totalItems": 4, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12wd55zala3sbknr23gcxizetybvpydh/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "Best of O\u2019Reilly Radar", 
+     "fullImage": {
+      "url": "https://d262ilb51hltx0.cloudfront.net/max/800/1*0TBCmSrqoP6Hop88HoCrag.png", 
+      "type": "image/jpeg"
+     }, 
+     "url": "http://bit.ly/133U4wb", 
+     "image": {
+      "url": "https://lh6.googleusercontent.com/proxy/5bBfcd7jnLmWbCYJ-zOMI2BN4Zo41IsQvpK2elSHLr9Drcy1xcmnMjA-J3wYyyZ86FLuoe3_UqMsGT4iebwdAzCcWn87Yf1SDbGIz7o2ZwNIkWw4SU8024_l=w506-h303-p", 
+      "width": 506, 
+      "type": "image/jpeg", 
+      "height": 303
+     }, 
+     "content": "Emerging technology insights and analysis from radar.oreilly.com", 
+     "objectType": "article"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/LzTHAvJsDZ9", 
+   "content": "Now on Medium--the Best of O'Reilly Radar: http://bit.ly/133U4wb \u00a0Our latest thinking on the big ideas we track. More coming soon.\ufeff", 
+   "plusoners": {
+    "totalItems": 11, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12wd55zala3sbknr23gcxizetybvpydh/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 2, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12wd55zala3sbknr23gcxizetybvpydh/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2014-12-10T23:52:52.138Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/LCoaxiJrWAa-U5nVl_J_oC5FUKA\"", 
+  "published": "2014-12-10T23:52:52.138Z", 
+  "id": "z12wd55zala3sbknr23gcxizetybvpydh"
+ }, 
+ {
+  "kind": "plus#activity", 
+  "provider": {
+   "title": "Google+"
+  }, 
+  "title": "The view from the offices of Passport Capital at One Market. Amazing how much construction is happening...", 
+  "url": "https://plus.google.com/+TimOReilly/posts/ZJqDwLNq4TG", 
+  "object": {
+   "resharers": {
+    "totalItems": 4, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12bvj151zjphb4y104chl3pvxfbszirt5o/people/resharers"
+   }, 
+   "attachments": [
+    {
+     "displayName": "The view from the offices of Passport Capital at One Market. Amazing how much construction is happening in San Francisco!", 
+     "fullImage": {
+      "url": "https://lh5.googleusercontent.com/-8K2nzM4z58c/VIM98ddQFXI/AAAAAAADAmM/OODo3pQNeAs/w4233-h1323/IMG_20141204_154907617-PANO.jpg", 
+      "width": 4233, 
+      "type": "image/jpeg", 
+      "height": 1323
+     }, 
+     "url": "https://plus.google.com/photos/107033731246200681024/albums/6089779229698914497/6089779230043805042", 
+     "image": {
+      "url": "https://lh5.googleusercontent.com/-8K2nzM4z58c/VIM98ddQFXI/AAAAAAADAmM/OODo3pQNeAs/w506-h750/IMG_20141204_154907617-PANO.jpg", 
+      "type": "image/jpeg"
+     }, 
+     "content": "IMG_20141204_154907617-PANO.jpg", 
+     "id": "107033731246200681024.6089779230043805042", 
+     "objectType": "photo"
+    }
+   ], 
+   "url": "https://plus.google.com/+TimOReilly/posts/ZJqDwLNq4TG", 
+   "content": "The view from the offices of Passport Capital at One Market. Amazing how much construction is happening in San Francisco!\ufeff", 
+   "plusoners": {
+    "totalItems": 69, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12bvj151zjphb4y104chl3pvxfbszirt5o/people/plusoners"
+   }, 
+   "replies": {
+    "totalItems": 13, 
+    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12bvj151zjphb4y104chl3pvxfbszirt5o/comments"
+   }, 
+   "objectType": "note"
+  }, 
+  "updated": "2014-12-06T17:34:31.827Z", 
+  "actor": {
+   "url": "https://plus.google.com/107033731246200681024", 
+   "image": {
+    "url": "https://lh3.googleusercontent.com/-J8nmMwIhpiA/AAAAAAAAAAI/AAAAAAACoLI/0MpUu2BMqTM/photo.jpg?sz=50"
+   }, 
+   "displayName": "Tim O'Reilly", 
+   "id": "107033731246200681024"
+  }, 
+  "access": {
+   "items": [
+    {
+     "type": "public"
+    }
+   ], 
+   "kind": "plus#acl", 
+   "description": "Public"
+  }, 
+  "verb": "post", 
+  "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/h_uxvoHu2tCun98Q0-3MbclfN4w\"", 
+  "published": "2014-12-06T17:34:31.827Z", 
+  "id": "z12bvj151zjphb4y104chl3pvxfbszirt5o"
+ }
+]

@@ -1,0 +1,60 @@
+import json
+import nltk
+# Load in human language data from wherever you've saved it
+
+
+USER_ID = '107033731246200681024' #Tim O' Reilly
+USER_I = 'QueryBy_Id_Output'
+
+DATA = USER_ID + '.json'
+data = json.loads(open(DATA).read())
+
+# Number of collocations to find
+N = 100
+
+i = 0
+for activity in data :
+	i = i + 1
+ #print activity['object']['content'].lower().split()
+
+print i
+
+all_tokens = [token for activity in data for token in activity['object']['content'
+].lower().split()]
+
+
+finder = nltk.BigramCollocationFinder.from_words(all_tokens)
+
+finder.apply_freq_filter(2)
+
+finder.apply_word_filter(lambda w: w in nltk.corpus.stopwords.words('english'))
+
+scorer = nltk.metrics.BigramAssocMeasures.phi_sq
+
+
+collocations = finder.nbest(scorer, N)
+
+for collocation in collocations:
+    c = ' '.join(collocation)
+    print c
+    
+
+'''
+print "Trigram Functionality " 
+print 
+
+finder1 = nltk.TrigramCollocationFinder.from_words(all_tokens)
+
+finder1.apply_freq_filter(3)
+
+finder1.apply_word_filter(lambda w: w in nltk.corpus.stopwords.words('english'))
+
+scorer = nltk.metrics.TrigramAssocMeasures.jaccard
+
+collocations = finder1.nbest(scorer, N)
+
+for collocation in collocations:
+    c = ' '.join(collocation)
+    print c
+'''
+    

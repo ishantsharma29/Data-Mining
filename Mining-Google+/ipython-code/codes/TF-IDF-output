@@ -1,0 +1,26 @@
+a : Mr. Green killed Colonel Mustard in the study with the candlestick. Mr. Green is not a very nice fellow.
+b : Professor Plum has a green plant in his study.
+c : Miss Scarlett watered Professor Plum's green plant while he was away from his office last week.
+
+TF(a): mr. 0.105263157895
+TF(b): mr. 0.0
+TF(c): mr. 0.0
+IDF: mr. 2.09861228867
+
+TF-IDF(a): mr. 0.220906556702
+TF-IDF(b): mr. 0.0
+TF-IDF(c): mr. 0.0
+
+TF(a): green 0.105263157895
+TF(b): green 0.111111111111
+TF(c): green 0.0625
+IDF: green 1.0
+
+TF-IDF(a): green 0.105263157895
+TF-IDF(b): green 0.111111111111
+TF-IDF(c): green 0.0625
+
+Overall TF-IDF scores for query 'mr. green'
+a 0.326169714597
+b 0.111111111111
+c 0.0625

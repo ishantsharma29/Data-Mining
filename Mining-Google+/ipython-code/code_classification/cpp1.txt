@@ -1,0 +1,95 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+	int q,flag=0;
+	scanf("%d",&q);
+	vector<pair<int,int> > va;
+	vector<pair<int,int> > vb;
+	
+	while(q--)
+	{
+		char typ[2];
+		int a,b,red=0,black=0;
+		scanf("%s%d%d",typ,&a,&b);
+		
+		if(typ[1]=='i')
+		{	flag=1;}
+		//int color=(typ[1]='i')?0:1;
+		else
+		{
+		int la=(int)(log(a)/log(2));
+		int lb=(int)(log(b)/log(2));
+		for(int i=0,j=la;i<=la;i++,j--)
+		{
+			if(flag==0)
+			{	
+			     if(j%2==1)
+			          va.push_back(make_pair(a,0));
+			     else 
+				  va.push_back(make_pair(a,1));
+			}
+			else
+			{
+			      if(j%2==1)
+			          va.push_back(make_pair(a,1));
+			     else 
+				  va.push_back(make_pair(a,0));
+			}
+			a=(int)a/2;
+			//la--;
+			
+		}
+		for(int i=0,j=lb;i<=lb;i++,j--)
+		{
+			if(flag==0)
+			{	
+			     if(j%2==1)
+			          vb.push_back(make_pair(b,0));
+			     else 
+				  vb.push_back(make_pair(b,1));
+			}
+			else
+			{
+			      if(j%2==1)
+			          vb.push_back(make_pair(b,1));
+			      else 
+				  vb.push_back(make_pair(b,0));
+			}
+			b=(int)b/2;
+			//lb--;
+		}
+
+		int k,l,f=0;
+		for(int i=0;i<=la;i++)
+		{
+			for(int j=0;j<=lb;j++)
+			{
+				if(va[i].first==vb[j].first)
+				{  k=i,l=j;f=1; break;}
+			}
+		if(f==1)break;
+		}
+
+		for(int i=0;i<=k;i++)
+		{
+			if(va[i].second==0)
+				red++;
+			else
+				black++; 
+		}
+
+		for(int i=0;i<l;i++)
+		{
+			if(vb[i].second==0)
+				red++;
+			else
+				black++; 
+		}
+		if(typ[1]=='r')
+			printf("red %d\n",red);
+		else if(typ[1]=='b')
+			printf("black %d\n",black);
+		}
+	}
+}

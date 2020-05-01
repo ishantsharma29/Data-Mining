@@ -1,0 +1,103 @@
+import os
+from math import log
+import json
+import nltk
+# Load in human language data from wherever you've saved it
+import operator
+from nltk.compat import iteritems
+from collections import OrderedDict
+
+trainer_set = {}
+
+fileName1 = ['c1.txt','c2.txt','c3.txt']
+fileName2 = ['cpp1.txt','cpp2.txt','cpp3.txt']
+fileName3 = ['python1.txt','python2.txt','python3.txt']
+fileName4 = ['java1.txt','java2.txt','java3.txt']
+
+files=[]
+files.append(fileName1)
+files.append(fileName2)
+files.append(fileName3)
+files.append(fileName4)
+
+i = 0
+
+for fileName in files:
+	i = i + 1
+	all_tokens = [] 
+	#fileName = 'fileName_'+str(i)
+	#print fileName
+	for name in fileName :
+		path=os.getcwd()+'/'+name
+		f=open(path,'r')
+		for line in f.readlines():
+			for word in line.split():
+				all_tokens.append(word)
+
+
+	finder = nltk.BigramCollocationFinder.from_words(all_tokens)
+
+	#finder.apply_freq_filter(2)
+
+	for ngram, freq in iteritems(finder.ngram_fd):
+		#print ngram," " , freq
+		if ngram in trainer_set:
+			trainer_set[ngram] = -1
+		else:
+			trainer_set[ngram]=i
+
+#print trainer_set
+
+#browse choose a file to classify
+while True :
+
+	tokens = []
+	print "Enter name of file you want to classify OR -1 To exit"
+	file_check = raw_input()
+	if file_check == str(-1):
+	 break
+	path1=os.getcwd()+'/'+file_check
+	f1=open(path1,'r') 
+	for line in f1.readlines():
+		for word in line.split():
+			tokens.append(word)
+
+	finder1 = nltk.BigramCollocationFinder.from_words(tokens)
+
+	'''
+	for ngram,freq in iteritems(finder1.ngram_fd):
+	 print ngram,freq
+	'''
+	c_count = 0
+	cpp_count = 0
+	p_count = 0
+	j_count = 0
+
+	for ngram, freq in iteritems(finder1.ngram_fd):
+		if ngram in trainer_set:
+			if trainer_set[ngram] == -1:
+				continue
+			elif trainer_set[ngram] == 1:
+				c_count = c_count + 1
+			elif trainer_set[ngram] == 2:
+				cpp_count = cpp_count + 1
+			elif trainer_set[ngram] == 3:
+				p_count = p_count + 1
+			elif trainer_set[ngram] == 4:
+				j_count = j_count + 1	
+
+	print "c_count ",c_count
+	print "cpp_count ",cpp_count
+	print "p_count ",p_count
+
+	if c_count == cpp_count and cpp_count == p_count and p_count == j_count :
+	 print "Insufficient training set to classify this document "
+	else: 
+	 if c_count >= cpp_count and c_count >= p_count and c_count >= j_count:
+		print "the document is a c source code"
+	 elif cpp_count >= c_count and cpp_count >= p_count and cpp_count >= j_count:
+		print "the document is a c++ source code"
+	 elif p_count >= cpp_count and p_count >= c_count and p_count >= j_count:
+		print "the document is a python source code"
+	 elif j_count >= cpp_count and j_count >= c_count and j_count >= p_count:
+		print "the document is a java source code"	

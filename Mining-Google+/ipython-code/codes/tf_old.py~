@@ -1,0 +1,69 @@
+from math import log
+import nltk
+import json
+from nltk.compat import iteritems
+import operator
+
+QUERY_TERMS = ['bay', 'mini']
+
+def tf(term, doc, normalize=True):
+	doc = doc.lower().split()
+	if normalize:
+		return doc.count(term.lower()) / float(len(doc))
+	else:
+		return doc.count(term.lower()) / 1.0
+
+def idf(term, corpus):
+	num_texts_with_term = len([True for text in corpus if term.lower()
+	in text.lower().split()])
+
+# tf-idf calc involves multiplying against a tf value less than 0, so it's
+# necessary to return a value greater than 1 for consistent scoring.
+
+# (Multiplying two values less than 1 returns a value less than each of
+# them.)
+	try:
+		return 1.0 + log(float(len(corpus)) / num_texts_with_term)
+	except ZeroDivisionError:
+		return 1.0
+
+def tf_idf(term, doc, corpus):
+	return tf(term, doc) * idf(term, corpus)
+
+
+
+# Load in human language data from wherever you've saved it
+USER_ID = '107033731246200681024' #Tim O' Reilly
+
+DATA = USER_ID + '.json'
+data = json.loads(open(DATA).read())
+
+all_tokens = [token for activity in data for token in activity['object']['content'
+].lower().split()]
+
+
+corpus={}
+query_scores={}
+i=0
+for activity in data:
+ query_scores[i]=0
+ corpus[i]=' '.join( activity['object']['content'].lower().split() )
+ i=i+1
+
+
+for term in [t.lower() for t in QUERY_TERMS]:
+	'''
+	for doc in corpus:
+		print 'TF(%s): %s' % (doc, term), tf(term, corpus[doc])
+	print 'IDF: %s' % (term, ), idf(term, corpus.values())
+	print
+	'''
+	for doc in corpus:
+		score = tf_idf(term, corpus[doc], corpus.values())
+		#print 'TF-IDF(%s): %s' % (doc, term), score
+		query_scores[doc]+=score
+	print
+
+print "Overall TF-IDF scores for query '%s'" % (' '.join(QUERY_TERMS), )
+print sorted(query_scores.items(),key=operator.itemgetter(1),reverse=True):
+	

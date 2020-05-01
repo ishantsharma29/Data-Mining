@@ -1,0 +1,116 @@
+from math import log
+import nltk
+import json
+from nltk.compat import iteritems
+import operator
+
+QT = ['bay', 'mini']
+
+print QT[0]
+print QT[1]
+
+# Load in human language data from wherever you've saved it
+USER_ID = '107033731246200681024' #Tim O' Reilly
+
+DATA = USER_ID + '.json'
+data = json.loads(open(DATA).read())
+
+all_tokens = [token for activity in data for token in activity['object']['content'
+].lower().split()]
+
+
+corpus={}
+i=0
+for activity in data:
+ corpus[i]=' '.join( activity['object']['content'].lower().split() )
+ i=i+1
+
+print corpus[0]
+'''
+Sample COrpus
+corpus = \
+{'a': 'Mr. Green killed Colonel Mustard in the study with the candlestick. \
+Mr. Green is not a very nice fellow.',
+'b': 'Professor Plum has a green plant in his study.',
+'c': "Miss Scarlett watered Professor Plum's green plant while he was away \
+from his office last week."}
+
+'''
+
+#for (k, v) in sorted(corpus.items()):
+#	print k, ':', v
+print
+# Score queries by calculating cumulative tf_idf score for each term in query
+
+tf_scores={}
+
+for key in corpus:
+	match = 0
+        list_doc = []
+
+	for term in corpus[key].lower().split(' '):
+	  list_doc.append(term)
+
+	total_count=len(list_doc)-1
+
+	for i in range(len(list_doc)-1):
+	 if list_doc[i] == QT[0] and  list_doc[i+1] == QT[1] :
+	  match=match+1
+	 
+	#print "bIGRAM fREQuency" , match  
+
+	#print "Total Bigrams in selected Post" ,total_count
+
+	c=0
+	for i in range(len(list_doc)-1):
+	  for w in nltk.corpus.stopwords.words('english'):
+	    if list_doc[i]== w :
+	      i=i+1
+	      c=c+1
+	       
+	total_count=total_count - c
+	#print "Valid Bigrams in selected post ",total_count
+	if total_count==0:
+	 total_count=1 
+
+	tf = match/ float(total_count)
+	#print "Term Frequency" , tf
+	tf_scores[key]=tf  
+
+'''
+IDF Implementation
+'''
+
+num_of_matches=0
+corpus_list = []
+for doc in corpus:
+ for term in corpus[doc].lower().split(' '):
+   corpus_list.append(term)
+   
+ for i in range(len(corpus_list)):
+    if corpus_list[i] == QT[0] and i+1<len(corpus_list) and  corpus_list[i+1] == QT[1] :
+      num_of_matches=num_of_matches+1
+      break     
+ corpus_list=[]
+ 
+ 
+print "No of posts in which Bigram is present",num_of_matches 
+
+print "Len corpus", len(corpus)
+if num_of_matches != 0:
+  idf = 1.0 + log(float(len(corpus)) / num_of_matches )
+else:
+  idf =1
+  
+print "InverseDocument Frequency ",idf 
+
+
+
+tf_idf_scores={}
+
+for key in tf_scores:
+	 tf_idf_scores[key]=tf_scores[key]*idf
+	 
+print sorted(tf_idf_scores.items(),key=operator.itemgetter(1))
+	
+	 

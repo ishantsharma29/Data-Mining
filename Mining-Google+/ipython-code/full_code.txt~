@@ -1,0 +1,183 @@
+
+
+#from IPython.html import widgets
+import httplib2
+import json
+import nltk
+from IPython.core.display import HTML
+import apiclient.discovery 
+from IPython.display import Image
+import httplib2
+import json
+from bs4 import BeautifulSoup
+import apiclient.discovery
+import os
+import httplib2
+import json
+import apiclient.discovery
+from bs4 import BeautifulSoup
+from BeautifulSoup import BeautifulStoneSoup
+
+
+
+
+X = ""
+container_5 = widgets.ContainerWidget()
+
+def func2(name):
+    print "Y"
+    
+def func3(widget):
+    form = container_5.children
+    G = form[0].value
+    print "yaha"
+    words = G.split(">")
+    ide = words[2]
+    
+    USER_ID = ide
+    #USER_ID = '114134834346472219368'
+
+    
+    API_KEY = 'AIzaSyDMJRu_ZTMkxZaYWOgaNXp4Ook1djTrEGE'
+
+
+    MAX_RESULTS = 200 # Will require multiple requests
+    def cleanHtml(html):
+        if html == "": return ""
+
+        soup = BeautifulSoup(html)
+        return BeautifulStoneSoup(soup.get_text(),
+            convertEntities=BeautifulStoneSoup.HTML_ENTITIES).contents[0]
+
+    service = apiclient.discovery.build('plus', 'v1', http=httplib2.Http(),developerKey=API_KEY)
+
+    activity_feed = service.activities().list(
+        userId=USER_ID,
+        collection='public',
+        maxResults='100' # Max allowed per request
+    )
+
+    activity_results = []
+
+    while activity_feed != None and len(activity_results) < MAX_RESULTS:
+        activities = activity_feed.execute()
+        if 'items' in activities:
+            for activity in activities['items']:
+                if activity['object']['objectType'] == 'note' and \
+                activity['object']['content'] != '':
+
+                    activity['title'] = cleanHtml(activity['title'])
+                    activity['object']['content'] = cleanHtml(activity['object']['content'])
+                    activity_results += [activity]
+    # list_next requires the previous request and response objects
+
+        activity_feed = service.activities().list_next(activity_feed, activities)
+    # Write the output to a file for convenience
+    f = open(os.path.join(USER_ID + '.json'), 'w')
+    f.write(json.dumps(activity_results, indent=1))
+    f.close()
+    print str(len(activity_results)), "activities written to", f.name
+
+    dfile = USER_ID + '.json'
+    dat = json.loads(open(dfile).read())
+
+    # Number of collocations to find
+
+    N = 25
+
+    all_tokens = [token for activity in dat for token in activity['object']['content'
+                  ].split()]
+
+    finder = nltk.BigramCollocationFinder.from_words(all_tokens)
+    finder.apply_freq_filter(2)
+    finder.apply_word_filter(lambda w: w in nltk.corpus.stopwords.words('english'))
+    scorer = nltk.metrics.BigramAssocMeasures.jaccard
+    collocations = finder.nbest(scorer, N)
+
+    for collocation in collocations:
+        c = ' '.join(collocation)
+        print c
+
+
+def calculate_form(name):
+    # Retreive values from form
+    print "X"
+    
+    
+def print_msg(widget):
+    form = container_1.children
+    Q = form[0].value
+    print Q
+    API_KEY = 'AIzaSyDMJRu_ZTMkxZaYWOgaNXp4Ook1djTrEGE'
+
+    service = apiclient.discovery.build('plus', 'v1', http=httplib2.Http(),developerKey=API_KEY)
+
+    people_feed = service.people().search(query=Q).execute()
+    #print json.dumps(people_feed['items'], indent=1)
+
+    html = []
+    #print "yayy"
+    listt = []
+    for p in people_feed['items']:
+        #html += ['<p><img src="%s" /> %s: %s</p>' % \
+        #(p['image']['url'], p['id'], p['displayName'])]
+        print "hii"
+        #html = html + p['id']
+        #html = html + p['displayName'] 
+        listt.insert(0, "Name=> " + p['displayName'] + " Id=>" + p['id'])
+        
+    print listt
+    #HTML(''.join(html))
+    #print "yu"
+    control_8 = widgets.RadioButtonsWidget(values=listt, description="Select User_id to mine")
+    control_9 = widgets.ButtonWidget(description="Mine this User")
+    control_8.on_trait_change(func2, "value")
+    control_9.on_click(func3)
+    container_5.children = [control_8, control_9]
+    
+    
+
+    
+    
+
+container_1 = widgets.ContainerWidget()
+control_1 = widgets.TextWidget(description="Username: ")
+control_2 = widgets.ButtonWidget(description="Submit")
+control_1.on_trait_change(calculate_form, "value")
+control_2.on_click(print_msg)
+
+container_1.children = [control_1, control_2]
+
+container_2 = widgets.ContainerWidget()
+
+control_3 = widgets.TextWidget(description="Twi: ")
+
+
+container_2.children = [control_3]
+
+container_3 = widgets.ContainerWidget()
+control_4 = widgets.TextWidget(description="Twi: ")
+container_3.children = [control_4]
+
+container_4 = widgets.ContainerWidget()
+control_5 = widgets.TextWidget(description="Twi: ")
+container_4.children = [control_5]
+
+accordion = widgets.AccordionWidget()
+accordion.children = [container_1, container_2,container_3,container_4,container_5]
+accordion
+
+accordion.set_title(0, "Google+")
+accordion.set_title(1,"resultg+")
+accordion.set_title(2, "Twitter")
+accordion.set_title(3, "LinkedIn")
+accordion.set_title(4, "GitHub")
+
+
+
+popup = widgets.PopupWidget(description="Data Mining Project")
+popup.children = [accordion]
+popup
+
+
+

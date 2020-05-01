@@ -1,0 +1,178 @@
+from math import log
+import json
+import nltk
+
+import operator
+from nltk.compat import iteritems
+from collections import OrderedDict
+
+#Google+ USER ID of the User we are mining
+USER_ID = '107033731246200681024' #Tim O' Reilly
+USER_I = 'QueryBy_Id_Output'
+
+
+# Load in human language data from wherever you've saved it
+DATA = USER_ID + '.json'
+data = json.loads(open(DATA).read())
+
+# Number of collocations to required 
+print "Enter the number of collocations need to be found"
+N = input()
+print
+
+#To output each activity of the user on command line
+i = 0
+for activity in data :
+	i = i + 1
+ #print activity['object']['content'].lower().split()
+
+#print i
+
+#This List contains 
+all_tokens = [token for activity in data for token in activity['object']['content'
+].lower().split()]
+
+
+finder = nltk.BigramCollocationFinder.from_words(all_tokens)
+
+finder.apply_freq_filter(2)
+
+finder.apply_word_filter(lambda w: w in nltk.corpus.stopwords.words('english'))
+
+bigram_score = OrderedDict()
+for ngram,freq in iteritems(finder.ngram_fd):
+	bi_freq = finder.ngram_fd[ngram]
+	w1=finder.word_fd[ngram[0]]
+	w2=finder.word_fd[ngram[1]]
+	score = (bi_freq)/float(w1*(w1-bi_freq)+w2*(w2-bi_freq)+bi_freq)
+	#print score
+	bigram_score[ngram]=score
+
+
+counter = 0
+list_bigram=[]
+for (k,v) in sorted(bigram_score.items(),key=operator.itemgetter(1),reverse=True):
+	if counter == N:
+		break
+	#print k," ",v
+	list_bigram.append('~'.join(k))
+	#c = ' '.join(k)
+	#print c
+	counter =  counter + 1
+
+#print list_bigram
+
+
+corpus={}
+i=0
+for activity in data:
+ corpus[i]=' '.join( activity['object']['content'].lower().split() )
+ i=i+1
+
+#print corpus[0]
+
+print "***************MENU**********************"
+print
+
+index=1
+for bigram in list_bigram:
+	print str(index)+')'+bigram 
+	index = index + 1
+
+print
+
+while True:
+	print "Choose any bigram from the above list.Enter serial num of bigram. To stop, Enter -1. " 
+
+	inp = input()
+
+	if inp == -1:
+		break
+	QT = list_bigram[inp-1].split('~')
+
+	print
+	tf_scores={}
+
+	for key in corpus:
+		match = 0
+		list_doc = []
+
+		for term in corpus[key].lower().split(' '):
+		  list_doc.append(term)
+
+		total_count=len(list_doc)-1
+
+		for i in range(len(list_doc)-1):
+		 if list_doc[i] == QT[0] and  list_doc[i+1] == QT[1] :
+		  match=match+1
+		 
+		#print "bIGRAM fREQuency" , match  
+
+		#print "Total Bigrams in selected Post" ,total_count
+
+		c=0
+		for i in range(len(list_doc)-1):
+		  for w in nltk.corpus.stopwords.words('english'):
+		    if list_doc[i]== w :
+		      i=i+1
+		      c=c+1
+		       
+		total_count=total_count - c
+		#print "Valid Bigrams in selected post ",total_count
+		if total_count==0:
+		 total_count=1 
+
+		tf = match/ float(total_count)
+		#print "Term Frequency" , tf
+		tf_scores[key]=tf  
+
+	'''
+	IDF Implementation
+	'''
+
+	num_of_matches=0
+	corpus_list = []
+	for doc in corpus:
+	 for term in corpus[doc].lower().split(' '):
+	   corpus_list.append(term)
+	   
+	 for i in range(len(corpus_list)):
+	    if corpus_list[i] == QT[0] and i+1<len(corpus_list) and  corpus_list[i+1] == QT[1] :
+	      num_of_matches=num_of_matches+1
+	      break     
+	 corpus_list=[]
+	 
+	 
+	#print "No of posts in which Bigram is present",num_of_matches 
+
+	#print "Len corpus", len(corpus)
+	if num_of_matches != 0:
+	  idf = 1.0 + log(float(len(corpus)) / num_of_matches )
+	else:
+	  idf =1
+	  
+	#print "InverseDocument Frequency ",idf 
+
+
+
+	tf_idf_scores={}
+
+	for key in tf_scores:
+		 tf_idf_scores[key]=tf_scores[key]*idf
+
+	print "Enter the number of top most post for the selected bigram"
+	top_post=input()
+	counter = 0
+	for (k,v) in sorted(tf_idf_scores.items(),key=operator.itemgetter(1),reverse=True):
+		if v==0.0:
+			print "In ", str(counter) ,"posts only, this bigram was found"
+			break	
+		print corpus[k]
+		print
+		print "TF-IDF",v
+		print
+		print
+		counter = counter + 1
+		if counter == top_post:
+			break
+
