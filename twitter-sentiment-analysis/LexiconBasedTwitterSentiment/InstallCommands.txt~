@@ -1,0 +1,2 @@
+sudo apt-get install python python-nltk python-libsvm python-yaml python-webpy python-oauth2 python-wxtools
+
